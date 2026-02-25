@@ -95,7 +95,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6cd3a5393b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας δυτική Πελοπόννησος,2026-01-26T04:09:00+00:00,Greece,0.384612909199315,3,1,el,MED,Europe
 '5a944cd51d',extremes,Thunderstorm,#53785a,wmo,χαλάζι δυτική Στερεά,2026-01-29T04:19:00+00:00,Greece,0.3841197332739431,3,1,el,MED,Europe
 '8455bbe003',extremes,Earthquake,#870007,usgs,σεισμός πύλος,2026-02-20T04:27:00+00:00,Greece,0.3840543608977699,1,1,el,MED,Europe
-'70773b5956',extremes,Earthquake,#870007,usgs,σεισμός αλάσκα,2026-02-05T04:27:00+00:00,Alaska,0.37782621017169016,2,2,el,NPO,Pacific Ocean
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,θερμότητα,2026-02-13T04:33:00+00:00,,0.38270854015280076,0,1,el,,
+'70773b5956',extremes,Earthquake,#870007,usgs,σεισμός αλάσκα,2026-02-05T04:27:00+00:00,Alaska,0.3778262101716901,2,2,el,NPO,Pacific Ocean
 'ba70aff664',extremes,Storm,#b3b2b1,wmo,καταιγίδα Κυκλάδες,2026-01-26T04:09:00+00:00,Greece,0.3766578547762791,3,1,el,MED,Europe
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,τροπική καταιγίδα,2026-02-16T04:37:00+00:00,,0.3755084210011273,2,1,el,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-01-15T10:56:00+00:00,,0.3750338752747166,1,2,el,,
@@ -153,7 +154,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '957a7a09df',extremes,Earthquake,#870007,usgs,σεισμός σταθμός attu,2026-02-05T04:27:00+00:00,Alaska,0.310868766045275,0,1,el,NPO,Pacific Ocean
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,πλημμύρα Κολομβία,2026-02-22T04:31:00+00:00,Colombia,0.3096852428882624,0,1,el,NWS,South-America
 '053bb10e09',extremes,Heat Wave,#c40202,random,ινδικό καλοκαίρι,2026-02-14T04:21:00+00:00,,0.3090552544119176,0,1,el,,
+'395db40dcf',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.30859936827145656,0,1,el,SES,South-America
+'02f4a27a12',extremes,Earthquake,#870007,usgs,σεισμός μέντι,2026-02-05T04:27:00+00:00,Papua New Guinea,0.30834626184998126,0,1,el,SEA,Oceania
+'d4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,κυκλώνας κυκλώνας yasi Queensland 2011,2026-02-05T04:28:00+00:00,,0.3082627445401946,0,1,el,NAU,Oceania
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,ποτάμι που πλημμυρίζει την Αυστραλία,2026-02-05T04:28:00+00:00,Australia,0.30819900312247195,0,1,el,SAU,Oceania
+'d98aa38709',extremes,Fog,#d60d2b,wmo,ομίχλη Σαουδική Αραβία,2026-02-07T04:19:00+00:00,Saudi Arabia,0.3081351694212214,0,1,el,ARP,Asia
+'b3c0051e90',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα formosa y alrededores,2026-02-06T04:27:00+00:00,Argentina,0.30812958757781345,0,1,el,SES,South-America
+'8e12d8e374',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα resistencia y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.30809770386185265,0,1,el,SES,South-America
+'d2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 cyclone nt tropical cyclone marcus,2026-02-19T04:32:00+00:00,,0.30808011719045286,0,1,el,NAU,Oceania
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-02-07T04:19:00+00:00,Albania,0.3080319335255584,2,1,el,MED,Europe
+'958e326b08',extremes,Earthquake,#870007,usgs,σεισμός νησιά Μπονίν περιοχή Ιαπωνία,2026-02-05T04:27:00+00:00,,0.30777651673664896,0,1,el,NPO,Pacific Ocean
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg caving,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,el,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-02-11T04:41:00+00:00,,0.3009203989211476,1,1,el,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,βουτιές υδραργύρου,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,el,,
@@ -218,8 +228,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,νυχτερινός παγετός,2026-02-17T04:30:00+00:00,,0.2438474565161087,2,1,el,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,υγρασία του εδάφους,2026-01-28T03:56:00+00:00,,0.2417981712382669,2,1,el,,
 '40f675561f',extremes,Heat Wave,#c40202,random,το πιο ζεστό καλοκαίρι,2026-02-13T04:33:00+00:00,,0.2373787348452464,2,1,el,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,χειμερινή καταιγίδα της Βόρειας Αμερικής Νέα Υόρκη,2026-01-31T04:17:00+00:00,United States,0.2312054529413387,2,1,el,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,τροπικός κυκλώνας Ιταλία,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,el,MED,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,χειμερινή καταιγίδα της Βόρειας Αμερικής Νέα Υόρκη,2026-01-31T04:17:00+00:00,United States,0.2312054529413387,2,1,el,ENA,North-America
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,η πιο κρύα μέρα,2026-02-17T04:30:00+00:00,,0.2308335212781577,2,1,el,,
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας φυτεία,2026-01-31T04:16:00+00:00,,0.2303046553809556,2,1,el,ESAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας 18π,2026-01-29T04:18:00+00:00,,0.2299958290215891,2,1,el,SPO,Pacific Ocean

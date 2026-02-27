@@ -128,8 +128,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bbe3e08bff',extremes,Earthquake,#870007,usgs,σεισμός λεβίδιον,2026-02-19T04:31:00+00:00,Greece,0.3340341927651162,2,1,el,MED,Europe
 'e4c6e7d8c1',extremes,Earthquake,#870007,usgs,σεισμός ιεράπετρα,2026-02-22T04:30:00+00:00,Greece,0.3332752831172606,2,1,el,MED,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,ακρίδα,2026-02-19T04:31:00+00:00,,0.3325441202220689,0,1,el,,
-'82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-02-08T04:43:00+00:00,,0.3305242766955781,1,1,el,,
 '8455bbe003',extremes,Earthquake,#870007,usgs,σεισμός πύλος,2026-02-20T04:27:00+00:00,Greece,0.3264462067631044,2,1,el,MED,Europe
+'82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-02-08T04:43:00+00:00,,0.3190456951912414,2,1,el,,
 '6b6cc8fad6',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση δυτική Πελοπόννησος,2026-02-16T04:38:00+00:00,Greece,0.3162577306639274,3,1,el,MED,Europe
 '3571497756',extremes,Precipitation,#d60d2b,wmo,βροχή νησιά Δωδεκάνησα,2026-01-30T04:21:00+00:00,Greece,0.3116210538758972,3,1,el,MED,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,ινδικό καλοκαίρι,2026-02-14T04:21:00+00:00,,0.3090552544119176,0,1,el,,

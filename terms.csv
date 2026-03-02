@@ -186,6 +186,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση τανζανία,2026-02-17T04:31:00+00:00,Tanzania,0.3051510934552057,0,1,el,SEAF,Africa
 'a486f7aaa7',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα δημοκρατία της adygea,2026-02-10T04:43:00+00:00,Russia,0.3051462385098296,0,1,el,ESB,Europe
 '11ece58a02',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Μπαχρέιν,2026-02-10T04:43:00+00:00,Bahrain,0.305128636111951,0,1,el,ARP,Asia
+'4299cdd13a',extremes,Storm,#b3b2b1,wmo,καταιγίδα γκάνα,2026-02-18T04:34:00+00:00,Ghana,0.3051238358267957,0,1,el,WAF,Africa
+'3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη δημοκρατία της Μολδαβίας,2026-02-18T04:34:00+00:00,Republic of Moldova,0.3050908882155386,0,1,el,WCE,Europe
+'d61de81685',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Χιλή,2026-02-10T04:43:00+00:00,Chile,0.30508748998560603,0,1,el,SWS,South-America
+'e7eb516918',extremes,Snow&Ice,#d60d2b,wmo,χιονισμένη δημοκρατία της Μολδαβίας,2026-02-18T04:34:00+00:00,Republic of Moldova,0.30507728076064394,0,1,el,WCE,Europe
+'8d4343544c',extremes,Precipitation,#d60d2b,wmo,βροχή παράλια,2026-02-17T04:31:00+00:00,Ecuador,0.30506863226274,0,1,el,NWS,South-America
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Νέα Ζηλανδία,2026-02-14T04:21:00+00:00,New Zealand,0.30506056215854566,0,1,el,NZ,Oceania
+'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα τσετσενική δημοκρατία,2026-02-26T04:29:00+00:00,Russia,0.3050225018868593,0,1,el,ESB,Europe
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Παραγουάη,2026-02-22T04:30:00+00:00,Paraguay,0.3049999208517584,0,1,el,SES,South-America
+'afc393e166',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση νότια Αφρική,2026-02-23T04:37:00+00:00,South Africa,0.30499614017210086,0,1,el,WSAF,Africa
+'8bb788b602',extremes,Wildfire,#d60d2b,wmo,wildfire assam,2026-02-11T04:41:00+00:00,India,0.30499176593451466,0,1,el,SAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-02-11T04:41:00+00:00,,0.3009203989211476,1,1,el,,
 '6e109815e7',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση κεντρική μακεδονία,2026-02-15T04:35:00+00:00,Greece,0.2974186638880393,3,1,el,MED,Europe
 '38d45ec9ef',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ιοννήσια,2026-02-14T04:21:00+00:00,Greece,0.2909134885033576,3,1,el,MED,Europe

@@ -85,7 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-02-16T04:37:00+00:00,,0.3619754383655234,2,1,el,,
 '8548c83b4d',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση θρακή,2026-01-30T04:21:00+00:00,Greece,0.3611611188752753,2,1,el,MED,Europe
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-02-06T04:28:00+00:00,Greece,0.3607797566628105,3,1,el,MED,Europe
-'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,χιονοστιβάδα,2026-02-22T04:30:00+00:00,,0.36013142193261055,2,2,el,,
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,χιονοστιβάδα,2026-02-22T04:30:00+00:00,,0.3601314219326105,2,2,el,,
 'f988925370',extremes,Precipitation,#d60d2b,wmo,βροχή ήπειρος,2026-02-15T04:35:00+00:00,Greece,0.3572664223395481,2,1,el,MED,Europe
 'e68b3f4750',extremes,Precipitation,#d60d2b,wmo,βροχή κεντρική Μακεδονία,2026-02-13T04:34:00+00:00,Greece,0.3571335783670637,2,1,el,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-02-13T04:34:00+00:00,Cyprus,0.357125184637994,2,1,el,MED,Europe
@@ -127,18 +127,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0de7f7e548',extremes,Drought,#edc291,edo,ξηρασία Κένυα,2026-02-22T04:31:00+00:00,Kenya,0.3100360898851149,0,1,el,SEAF,Africa
 '27ff8af872',extremes,Drought,#edc291,edo,ξηρασία Δανία,2026-02-16T04:38:00+00:00,Denmark,0.3096486000695067,0,1,el,NEU,Europe
 'a1fcc33dde',extremes,Drought,#edc291,edo,ξηρασία Χονγκ Κονγκ,2026-02-25T04:33:00+00:00,Hong Kong,0.3096297868820012,0,1,el,EAS,Asia
+'9349bd9c5e',extremes,Drought,#edc291,edo,ξηρασία ισημερινή γουινέα,2026-02-15T04:35:00+00:00,Equatorial Guinea,0.3083453205380317,0,1,el,WAF,Africa
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-02-07T04:19:00+00:00,Albania,0.3080319335255584,2,1,el,MED,Europe
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μαλδίβες,2026-02-06T04:27:00+00:00,Maldives,0.3070771782131387,0,1,el,EIO,Indian Ocean
 'f6ff301646',extremes,Drought,#edc291,edo,ξηρασία Σομαλία,2026-02-07T04:19:00+00:00,Somalia,0.3069664205434397,0,1,el,NEAF,Africa
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,παγετός Καναδάς,2026-02-07T04:19:00+00:00,Canada,0.3069573044751004,0,1,el,NEN,North-America
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,Ο κυκλώνας του 2019 και ο σοβαρός τροπικός κυκλώνας βερόνικα,2026-02-23T04:37:00+00:00,Australia,0.3068316102329143,0,1,el,CAU,Oceania
+'74236bd182',extremes,Drought,#edc291,edo,έλλειψη βροχής Ισλανδία,2026-03-03T04:27:00+00:00,Iceland,0.30668970936771933,0,1,el,GIC,Europe
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,κατολίσθηση βράχου Νορβηγία,2026-02-25T04:32:00+00:00,Norway,0.3066004637968775,0,1,el,NEU,Europe
 'cf99db758d',extremes,Fog,#d60d2b,wmo,ομίχλη λατ,2026-02-28T04:07:00+00:00,Latvia,0.3065953186007564,0,1,el,WCE,Europe
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Αυστραλία,2026-02-25T04:32:00+00:00,Australia,0.3065771183322647,0,1,el,CAU,Oceania
+'0511e6ef31',extremes,Drought,#edc291,edo,Ξηρασία Εσθονία,2026-02-28T04:07:00+00:00,Estonia,0.3065622789654603,0,1,el,NEU,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,ξηρασία sao tome and principe,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.3065146471945019,0,1,el,WAF,Africa
 'bd09b9486d',extremes,Drought,#edc291,edo,έλλειψη βροχής Τζιμπουτί,2026-02-25T04:33:00+00:00,Djibouti,0.3064411481001536,0,1,el,NEAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,νεροποντή Αργεντινή,2026-02-27T04:26:00+00:00,Argentina,0.306404049065885,0,1,el,SES,South-America
 '157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,περιοχές με καταρρακτώδεις βροχές της περιοχής ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.3064016807542408,0,1,el,SEAF,Africa
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,βροχή Αργεντινή,2026-02-26T04:29:00+00:00,Argentina,0.3063758801444256,0,1,el,SES,South-America
 'ab8adba258',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας litoral Provincia de huasco,2026-02-07T04:19:00+00:00,Chile,0.3062655957052314,0,1,el,SWS,South-America
 '19541fab6d',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Φινλανδία,2026-02-08T04:43:00+00:00,Finland,0.3061967433595992,0,1,el,NEU,Europe
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά στην Ινδία,2026-02-11T04:41:00+00:00,India,0.3061465467193416,0,1,el,SAS,Asia

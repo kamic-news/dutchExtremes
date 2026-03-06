@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'42b71c0645',extremes,Precipitation,#d60d2b,wmo,νεροποντή ελλάδα,2026-02-17T04:31:00+00:00,Greece,0.6028599319926519,0,1,el,MED,Europe
-'09a1eac0c2',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία ανατολική Μακεδονία,2026-03-05T04:24:00+00:00,Greece,0.5395182974898929,1,1,el,MED,Europe
+'42b71c0645',extremes,Precipitation,#d60d2b,wmo,νεροποντή ελλάδα,2026-02-17T04:31:00+00:00,Greece,0.5124309421937541,1,1,el,MED,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-02-10T04:42:00+00:00,,0.5112277704249095,3,2,el,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-01-17T03:44:00+00:00,,0.5061304533489891,2,3,el,,
 '31a102c336',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ελλάδα,2026-02-18T04:34:00+00:00,Greece,0.5037548719678434,1,1,el,MED,Europe
@@ -20,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-02-10T04:43:00+00:00,Greece,0.4679072638288982,4,1,el,MED,Europe
 'd7e7f876eb',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρίτη,2026-02-16T04:38:00+00:00,Greece,0.4626020589095331,2,1,el,MED,Europe
 '49c8789d4b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ανατολική Στερεά Ευβοία,2026-02-18T04:34:00+00:00,Greece,0.4624549800928061,2,1,el,MED,Europe
+'09a1eac0c2',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία ανατολική Μακεδονία,2026-03-05T04:24:00+00:00,Greece,0.45889058286640894,2,1,el,MED,Europe
 '4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-02-13T04:34:00+00:00,Greece,0.458127352914176,2,1,el,MED,Europe
 'bab44a9ef3',extremes,Storm,#b3b2b1,wmo,καταιγίδα Κύπρος,2026-02-18T04:34:00+00:00,Cyprus,0.4563211937480458,3,1,el,MED,Europe
 'ba70aff664',extremes,Storm,#b3b2b1,wmo,καταιγίδα Κυκλάδες,2026-02-15T04:35:00+00:00,Greece,0.4555721272423983,2,1,el,MED,Europe
@@ -116,7 +116,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b6cc8fad6',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση δυτική Πελοπόννησος,2026-02-16T04:38:00+00:00,Greece,0.3162577306639274,3,1,el,MED,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-03-03T04:26:00+00:00,,0.3110772034521668,1,1,el,,
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-02-07T04:19:00+00:00,Albania,0.3080319335255584,2,1,el,MED,Europe
-'157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,περιοχές με καταρρακτώδεις βροχές της περιοχής ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.3064016807542408,0,1,el,SEAF,Africa
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,βροχή Αργεντινή,2026-02-26T04:29:00+00:00,Argentina,0.3063758801444256,0,1,el,SES,South-America
 'ab8adba258',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας litoral Provincia de huasco,2026-02-07T04:19:00+00:00,Chile,0.3062655957052314,0,1,el,SWS,South-America
 '19541fab6d',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Φινλανδία,2026-02-08T04:43:00+00:00,Finland,0.3061967433595992,0,1,el,NEU,Europe
@@ -282,6 +281,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a654473a4',extremes,Drought,#edc291,edo,ξηρασία sao tome and principe,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.2605374501153266,1,1,el,WAF,Africa
 'bd09b9486d',extremes,Drought,#edc291,edo,έλλειψη βροχής Τζιμπουτί,2026-02-25T04:33:00+00:00,Djibouti,0.2604749758851306,1,1,el,NEAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,νεροποντή Αργεντινή,2026-02-27T04:26:00+00:00,Argentina,0.2604434417060022,1,1,el,SES,South-America
+'157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,περιοχές με καταρρακτώδεις βροχές της περιοχής ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.26044142864110464,1,1,el,SEAF,Africa
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα περιοχή 2 – μέτρια,2026-02-17T04:31:00+00:00,Paraguay,0.2602541410874837,1,1,el,SES,South-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,καταιγίδα Τρινιντάντ και Τομπάγκο,2026-02-10T04:43:00+00:00,Trinidad and Tobago,0.260166702205636,1,1,el,NSA,North-America
 'a1f794d6b8',extremes,Storm,#b3b2b1,wmo,καταιγίδα οράν,2026-02-08T04:43:00+00:00,Algeria,0.2600567651180457,1,1,el,SAH,Africa

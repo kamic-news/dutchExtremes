@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2250822817',extremes,Earthquake,#870007,usgs,σεισμός παραμυθιά,2026-03-11T04:22:00+00:00,Greece,0.5405612318932143,0,1,el,MED,Europe
+'2250822817',extremes,Earthquake,#870007,usgs,σεισμός παραμυθιά,2026-03-11T04:22:00+00:00,Greece,0.6100771071092321,1,2,el,MED,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-02-10T04:42:00+00:00,,0.4795009577183159,4,2,el,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-02-18T04:33:00+00:00,,0.4786149507406551,1,3,el,,
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,σεισμός ελλάδα,2026-03-01T04:34:00+00:00,Greece,0.4767998113836093,2,3,el,MED,Europe
@@ -41,7 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-02-15T04:35:00+00:00,Cyprus,0.4055900428251219,2,1,el,MED,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,στεριά,2026-02-06T04:27:00+00:00,,0.3980451698488623,3,2,el,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,χιόνι,2026-03-06T04:20:00+00:00,,0.3952510921374064,1,3,el,,
-'633ed59c63',extremes,Iceberg,#d60d2b,random,πάγος της Αρκτικής θάλασσας,2026-02-28T04:07:00+00:00,,0.39375936988991644,0,1,el,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,πάγος της Αρκτικής θάλασσας,2026-02-28T04:07:00+00:00,,0.3937593698899164,0,1,el,,
 'd7e7f876eb',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρίτη,2026-02-16T04:38:00+00:00,Greece,0.3932117500731031,3,1,el,MED,Europe
 '49c8789d4b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ανατολική Στερεά Ευβοία,2026-02-18T04:34:00+00:00,Greece,0.3930867330788852,3,1,el,MED,Europe
 '41889f3e2c',extremes,Thunderstorm,#53785a,wmo,χαλάζι ανατολική Πελοπόννησος,2026-02-11T04:41:00+00:00,Greece,0.3922535832895318,2,1,el,MED,Europe
@@ -104,7 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cbb1b9d52b',extremes,Precipitation,#d60d2b,wmo,νεροποντή νησιά Δωδεκάνησα,2026-02-17T04:31:00+00:00,Greece,0.3256178372482328,3,1,el,MED,Europe
 '82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-02-08T04:43:00+00:00,,0.3190456951912414,2,1,el,,
 '047f353885',extremes,Heat Wave,#c40202,acwe,καύσωνας στη δυτική Αυστραλία,2026-03-11T04:23:00+00:00,Australia,0.3169154170414733,0,1,el,CAU,Oceania
-'ebe314dd99',extremes,Flood,#030ba1,aidr,έντονες βροχοπτώσεις και πλημμύρες Queensland Φεβρουάριος 2020,2026-03-01T04:35:00+00:00,Australia,0.31439037407903236,0,1,el,EAU,Oceania
+'ebe314dd99',extremes,Flood,#030ba1,aidr,έντονες βροχοπτώσεις και πλημμύρες Queensland Φεβρουάριος 2020,2026-03-01T04:35:00+00:00,Australia,0.3143903740790323,0,1,el,EAU,Oceania
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-02-07T04:19:00+00:00,Albania,0.3080319335255584,2,1,el,MED,Europe
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,βροχή Τανζανία,2026-02-23T04:37:00+00:00,Tanzania,0.3044903460427692,0,1,el,SEAF,Africa
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-02-11T04:41:00+00:00,,0.3009203989211476,1,1,el,,

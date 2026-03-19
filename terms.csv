@@ -76,6 +76,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,τυφώνας,2026-03-01T04:34:00+00:00,,0.3200640679636456,3,1,el,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,χαλάζι,2026-02-21T04:17:00+00:00,,0.316511782777499,2,2,el,,
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-02-26T04:29:00+00:00,Greece,0.3117510079047776,3,1,el,MED,Europe
+'8a654473a4',extremes,Drought,#edc291,edo,ξηρασία sao tome and principe,2026-03-10T04:22:00+00:00,Sao Tome and Principe,0.3066846604213136,0,1,el,WAF,Africa
+'02711610b5',extremes,Storm,#b3b2b1,wmo,καταιγίδα Αργεντινή,2026-03-17T04:30:00+00:00,Argentina,0.3058272156012692,0,1,el,SES,South-America
+'b9576a4c93',extremes,Storm,#b3b2b1,wmo,καταιγίδα Τρινιντάντ και Τομπάγκο,2026-03-15T04:45:00+00:00,Trinidad and Tobago,0.3051927076441421,0,1,el,NSA,North-America
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-03-01T04:35:00+00:00,Albania,0.2980403477248541,2,1,el,MED,Europe
 '363ce72927',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-03-05T04:24:00+00:00,Albania,0.2951629235788204,2,1,el,MED,Europe
 'c948617fef',extremes,Heat Wave,#c40202,random,ακραία έκθεση στη ζέστη,2026-02-26T04:28:00+00:00,,0.2864978260503917,2,1,el,,
@@ -259,9 +262,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,καταιγίδα amazonía,2026-02-16T04:38:00+00:00,Ecuador,0.2204819760880551,2,1,el,NWS,South-America
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση τανζανία,2026-02-17T04:31:00+00:00,Tanzania,0.220471665021386,2,1,el,SEAF,Africa
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση νότια Αφρική,2026-02-23T04:37:00+00:00,South Africa,0.2203597112743427,2,1,el,WSAF,Africa
-'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας litoral,2026-02-16T04:38:00+00:00,Ecuador,0.22032743292624876,2,1,el,NWS,South-America
+'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας litoral,2026-02-16T04:38:00+00:00,Ecuador,0.2203274329262487,2,1,el,NWS,South-America
 'f6d696437a',extremes,Snow&Ice,#d60d2b,wmo,παγετός νότια Ισλανδία,2026-02-18T04:34:00+00:00,Iceland,0.2202601479853036,2,1,el,GIC,Europe
-'ea0aa28870',extremes,Drought,#edc291,edo,έλλειψη βροχής Φινλανδία,2026-02-26T04:29:00+00:00,Finland,0.22024026546964798,2,1,el,NEU,Europe
+'ea0aa28870',extremes,Drought,#edc291,edo,έλλειψη βροχής Φινλανδία,2026-02-26T04:29:00+00:00,Finland,0.2202402654696479,2,1,el,NEU,Europe
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,κυκλώνας Αυστραλία,2026-02-26T04:29:00+00:00,Australia,0.2201810819800956,2,1,el,CAU,Oceania
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,νεροποντή Εκουαδόρ,2026-02-16T04:38:00+00:00,Ecuador,0.2201428421698004,2,1,el,NWS,South-America
 'ed6c88156a',extremes,Snow&Ice,#d60d2b,wmo,χιόνι νοτιοανατολική Ισλανδία,2026-02-23T04:37:00+00:00,Iceland,0.2199847500712196,2,1,el,GIC,Europe

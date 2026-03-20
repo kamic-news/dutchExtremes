@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'82abc377db',extremes,Precipitation,#d60d2b,wmo,βροχή ιοννήσια,2026-03-19T04:35:00+00:00,Greece,0.5975331922660351,0,1,el,MED,Europe
-'491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-03-06T04:21:00+00:00,Greece,0.509766419446671,0,1,el,MED,Europe
+'82abc377db',extremes,Precipitation,#d60d2b,wmo,βροχή ιοννήσια,2026-03-19T04:35:00+00:00,Greece,0.5079032134261298,1,1,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-03-19T04:35:00+00:00,Greece,0.5023538010940125,2,1,el,MED,Europe
 '08979c65d6',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ελλάδα,2026-03-19T04:35:00+00:00,Greece,0.4975370584882392,2,1,el,MED,Europe
 '6cd3a5393b',extremes,Storm,#b3b2b1,wmo,καταιγίδα δυτική Πελοπόννησος,2026-03-19T04:35:00+00:00,Greece,0.4672680352415331,2,1,el,MED,Europe
@@ -16,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-03-07T04:13:00+00:00,Cyprus,0.4360529414878655,1,1,el,MED,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,πάγωμα,2026-02-15T04:34:00+00:00,,0.4359016282115247,2,3,el,,
 '42b71c0645',extremes,Precipitation,#d60d2b,wmo,νεροποντή ελλάδα,2026-02-17T04:31:00+00:00,Greece,0.4355663008646909,2,1,el,MED,Europe
+'491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-03-06T04:21:00+00:00,Greece,0.43345147152967034,1,1,el,MED,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,τσουνάμι,2026-02-28T04:07:00+00:00,,0.4299551496689478,4,2,el,,
 '9942e2b4c0',extremes,Precipitation,#d60d2b,wmo,βροχή ελλάδα,2026-02-18T04:34:00+00:00,Greece,0.4297031362337038,4,1,el,MED,Europe
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,τροπικός κυκλώνας Μαδαγασκάρη,2026-02-20T04:28:00+00:00,Madagascar,0.428213551551609,3,2,el,MDG,Africa

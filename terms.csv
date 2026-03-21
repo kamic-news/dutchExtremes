@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'edd8cedd5a',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρήτι,2026-03-20T04:26:00+00:00,Greece,0.6467675797765763,0,1,el,MED,Europe
-'ba70aff664',extremes,Storm,#b3b2b1,wmo,καταιγίδα Κυκλάδες,2026-03-20T04:26:00+00:00,Greece,0.6092876677965822,0,1,el,MED,Europe
-'10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-03-20T04:26:00+00:00,Greece,0.5155543240850318,1,1,el,MED,Europe
+'edd8cedd5a',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρήτι,2026-03-20T04:26:00+00:00,Greece,0.5497524428100898,1,1,el,MED,Europe
+'ba70aff664',extremes,Storm,#b3b2b1,wmo,καταιγίδα Κυκλάδες,2026-03-20T04:26:00+00:00,Greece,0.5178945176270948,1,1,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-03-19T04:35:00+00:00,Greece,0.5023538010940125,2,1,el,MED,Europe
 '247bcedc95',extremes,Thunderstorm,#53785a,wmo,χαλάζι Κύπρος,2026-03-19T04:35:00+00:00,Cyprus,0.4974857102067224,2,1,el,MED,Europe
 '9942e2b4c0',extremes,Precipitation,#d60d2b,wmo,βροχή ελλάδα,2026-03-20T04:26:00+00:00,Greece,0.4937181320564756,2,1,el,MED,Europe
@@ -16,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-02-18T04:33:00+00:00,,0.4428264043826956,4,3,el,,
 '2250822817',extremes,Earthquake,#870007,usgs,σεισμός παραμυθιά,2026-03-11T04:22:00+00:00,Greece,0.4418908208864202,3,2,el,MED,Europe
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,πτώση της θερμοκρασίας,2026-02-12T04:36:00+00:00,,0.4413206590152064,6,3,el,,
+'10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-03-20T04:26:00+00:00,Greece,0.438521205472277,2,1,el,MED,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,πάγωμα,2026-02-15T04:34:00+00:00,,0.4359016282115247,2,3,el,,
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-03-06T04:21:00+00:00,Greece,0.4334514715296703,1,1,el,MED,Europe
 '82abc377db',extremes,Precipitation,#d60d2b,wmo,βροχή ιοννήσια,2026-03-19T04:35:00+00:00,Greece,0.4317177314122102,2,1,el,MED,Europe
@@ -74,7 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,τυφώνας,2026-03-01T04:34:00+00:00,,0.3200640679636456,3,1,el,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,χαλάζι,2026-02-21T04:17:00+00:00,,0.316511782777499,2,2,el,,
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-02-26T04:29:00+00:00,Greece,0.3117510079047776,3,1,el,MED,Europe
-'7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας νάρελλα,2026-03-19T04:35:00+00:00,,0.30867339083843975,0,1,el,SPO,Pacific Ocean
+'7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας νάρελλα,2026-03-19T04:35:00+00:00,,0.3086733908384397,0,1,el,SPO,Pacific Ocean
 '7c4f1254ae',extremes,Earthquake,#870007,usgs,σεισμός Παλαιόχωρα,2026-03-16T05:04:00+00:00,Greece,0.3076941004094439,3,1,el,MED,Europe
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,καταιγίδα αλγερία,2026-03-10T04:22:00+00:00,Algeria,0.306622363129756,0,1,el,SAH,Africa
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,καταιγίδα Τρινιδάδ και Τομπάγκο,2026-03-04T04:20:00+00:00,Trinidad and Tobago,0.3058145105321779,0,1,el,NSA,North-America

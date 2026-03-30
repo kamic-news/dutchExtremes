@@ -1,80 +1,82 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Donald Trump,Donald Trump,PERSON,-0.04429499072356214,0.2732426303854875,en,4.9
-Melinda Gates,Melinda Gates,PERSON,0.1778656126482214,0.7740447957839263,en,4.6
+Donald Trump,Donald Trump,PERSON,-0.0434090909090909,0.2677777777777778,en,5.0
 Bobby J,Bobby J,PERSON,0.0,0.0,en,4.6
+Melinda Gates,Melinda Gates,PERSON,0.1778656126482214,0.7740447957839263,en,4.6
 Yiannis Kallianos,Yiannis Kallianos,PERSON,-0.32843137254901955,0.446078431372549,en,3.4
-George Papandreou,George Papandreou,PERSON,-0.1845238095238095,0.41666666666666663,en,2.8
-Nea Smyrni,Nea Smyrni,PERSON,0.03571428571428572,0.10714285714285715,en,2.8
 Dileta Leota,Dileta Leota,PERSON,0.5535714285714286,0.7142857142857143,en,2.8
-Bill Gates,Bill Gates,PERSON,0.21428571428571433,0.6726190476190477,en,2.8
 Ueli Kestenholt,Ueli Kestenholt,PERSON,-0.058035714285714295,0.17857142857142858,en,2.8
-Sofiana Corinthia,Sofiana Corinthia,PERSON,0.28571428571428575,0.37500000000000006,en,2.8
-Diletta Leota,Diletta Leota,PERSON,0.26785714285714285,0.4107142857142857,en,2.8
+Nea Smyrni,Nea Smyrni,PERSON,0.03571428571428572,0.10714285714285715,en,2.8
 Storm Johannes,Storm Johannes,PERSON,-0.1428571428571429,0.2619047619047619,en,2.8
+Sofiana Corinthia,Sofiana Corinthia,PERSON,0.28571428571428575,0.37500000000000006,en,2.8
+George Papandreou,George Papandreou,PERSON,-0.1845238095238095,0.41666666666666663,en,2.8
+Bill Gates,Bill Gates,PERSON,0.21428571428571433,0.6726190476190477,en,2.8
+Diletta Leota,Diletta Leota,PERSON,0.26785714285714285,0.4107142857142857,en,2.8
 Christina Souzi,Christina Souzi,PERSON,0.0,0.0,en,2.7
-Nea Makri,Nea Makri,PERSON,-0.5384615384615383,0.5128205128205128,en,2.6
 Astros Kynourias,Astros Kynourias,PERSON,-0.3044871794871794,0.47008547008547,en,2.6
+Nea Makri,Nea Makri,PERSON,-0.5384615384615383,0.5128205128205128,en,2.6
 Brad Pitt,Brad Pitt,PERSON,-0.16666666666666663,1.0625,en,2.4
-Efthymis Lekkas,Efthymis Lekkas,PERSON,-0.19791666666666663,0.48611111111111105,en,2.4
 Ben Stiller,Ben Stiller,PERSON,-0.020833333333333336,0.16666666666666666,en,2.4
+Efthymis Lekkas,Efthymis Lekkas,PERSON,-0.19791666666666663,0.48611111111111105,en,2.4
 Clearchos Marousakis,Clearchos Marousakis,PERSON,-0.41269841269841256,0.626984126984127,en,2.1
-Agia Triada,Agia Triada,PERSON,0.0,0.0,en,1.9
-Souli Corinthia,Souli Corinthia,PERSON,0.0,0.0,en,1.9
-Giannis Kallianos,Giannis Kallianos,PERSON,-0.2719298245614034,0.6403508771929826,en,1.9
-Marie Claire,Marie Claire,PERSON,0.0,0.0,en,1.9
-Storm Kristin,Storm Kristin,PERSON,1.460819769243627e-17,0.7105263157894738,en,1.9
-Efthymios Lekkas,Efthymios Lekkas,PERSON,0.039473684210526314,0.5526315789473684,en,1.9
-Volanda Trikala,Volanda Trikala,PERSON,0.0,0.0,en,1.9
-Dokomos Fthiotida,Dokomos Fthiotida,PERSON,0.10526315789473685,0.4210526315789474,en,1.9
 Bodo Glimt,Bodo Glimt,PERSON,0.05263157894736843,0.20175438596491227,en,1.9
+Giannis Kallianos,Giannis Kallianos,PERSON,-0.2719298245614034,0.6403508771929826,en,1.9
+Storm Kristin,Storm Kristin,PERSON,1.460819769243627e-17,0.7105263157894738,en,1.9
+Volanda Trikala,Volanda Trikala,PERSON,0.0,0.0,en,1.9
+Marie Claire,Marie Claire,PERSON,0.0,0.0,en,1.9
 Storm Nils,Storm Nils,PERSON,-0.013157894736842118,0.44736842105263164,en,1.9
+Dokomos Fthiotida,Dokomos Fthiotida,PERSON,0.10526315789473685,0.4210526315789474,en,1.9
+Efthymios Lekkas,Efthymios Lekkas,PERSON,0.039473684210526314,0.5526315789473684,en,1.9
+Souli Corinthia,Souli Corinthia,PERSON,0.0,0.0,en,1.9
+Agia Triada,Agia Triada,PERSON,0.0,0.0,en,1.9
 Bochali - Soil,Bochali - Soil,PERSON,0.0,0.0,en,1.9
-Kostis Hatzidakis,Kostis Hatzidakis,PERSON,0.1386784511784512,0.6790123456790124,en,1.8
-rain - Attica,rain - Attica,PERSON,-0.2962962962962962,0.3086419753086419,en,1.8
 Thodoris Kolidas,Thodoris Kolidas,PERSON,-0.10185185185185183,0.5321869488536155,en,1.8
-Nicoleta Ziakopoulou,Nicoleta Ziakopoulou,PERSON,-0.10185185185185186,0.5123456790123456,en,1.8
+rain - Attica,rain - Attica,PERSON,-0.2962962962962962,0.3086419753086419,en,1.8
 Ano Glyfada,Ano Glyfada,PERSON,-0.3981481481481481,0.6512345679012346,en,1.8
-Alberto Eskenazi,Alberto Eskenazi,PERSON,-0.039215686274509796,1.0588235294117647,en,1.7
+Kostis Hatzidakis,Kostis Hatzidakis,PERSON,0.1386784511784512,0.6790123456790124,en,1.8
+Nicoleta Ziakopoulou,Nicoleta Ziakopoulou,PERSON,-0.10185185185185186,0.5123456790123456,en,1.8
 Kato Achaia,Kato Achaia,PERSON,0.0,0.0,en,1.7
 Nikos Hardalias,Nikos Hardalias,PERSON,-0.43137254901960775,0.4803921568627451,en,1.7
-Athanasios Diakos,Athanasios Diakos,PERSON,-0.11764705882352942,0.029411764705882356,en,1.7
 George Tsatraphyllia,George Tsatraphyllia,PERSON,-0.4352941176470587,0.5294117647058824,en,1.7
-Ioannis Doumos,Ioannis Doumos,PERSON,0.21666666666666667,0.5583333333333333,en,1.0
-​​Agia Triada,​​Agia Triada,PERSON,-0.2333333333333333,0.8333333333333334,en,1.0
-Benjamin Kondratiev,Benjamin Kondratiev,PERSON,0.0,0.0,en,1.0
-Storm Oriana,Storm Oriana,PERSON,-0.2,0.5,en,1.0
-Nico Lopez,Nico Lopez,PERSON,0.0,0.0,en,1.0
-Storm Niles,Storm Niles,PERSON,-0.2,0.4,en,1.0
-Platron - Trooditissa,Platron - Trooditissa,PERSON,-0.07142857142857142,0.14285714285714285,en,1.0
+Alberto Eskenazi,Alberto Eskenazi,PERSON,-0.039215686274509796,1.0588235294117647,en,1.7
+Athanasios Diakos,Athanasios Diakos,PERSON,-0.11764705882352942,0.029411764705882356,en,1.7
 Rostislav Goldstein,Rostislav Goldstein,PERSON,0.0,0.0,en,1.0
 Cyclone Gezani,Cyclone Gezani,PERSON,-0.3,0.4,en,1.0
-Jeffrey Epstein,Jeffrey Epstein,PERSON,0.0,0.0,en,1.0
 Bogdan Ivan,Bogdan Ivan,PERSON,-0.1,0.25,en,1.0
-Thesprotia - Lightning,Thesprotia - Lightning,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+Jeffrey Epstein,Jeffrey Epstein,PERSON,0.0,0.0,en,1.0
+​​Agia Triada,​​Agia Triada,PERSON,-0.2333333333333333,0.8333333333333334,en,1.0
+Ioannis Doumos,Ioannis Doumos,PERSON,0.21666666666666667,0.5583333333333333,en,1.0
+Platron - Trooditissa,Platron - Trooditissa,PERSON,-0.07142857142857142,0.14285714285714285,en,1.0
+Storm Niles,Storm Niles,PERSON,-0.2,0.4,en,1.0
+Benjamin Kondratiev,Benjamin Kondratiev,PERSON,0.0,0.0,en,1.0
+Storm Oriana,Storm Oriana,PERSON,-0.2,0.5,en,1.0
 Kristian Kivus,Kristian Kivus,PERSON,0.10000000000000002,0.3833333333333333,en,1.0
-Evangelia Plataniotis,Evangelia Plataniotis,PERSON,0.0,0.0,en,1.0
+Nico Lopez,Nico Lopez,PERSON,0.0,0.0,en,1.0
+Thesprotia - Lightning,Thesprotia - Lightning,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+Daniel Matthews,Daniel Matthews,PERSON,0.08333333333333334,0.25,en,1.0
+Zohran Mamdani,Zohran Mamdani,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Andreas Ketti,Andreas Ketti,PERSON,-0.065,0.4383333333333333,en,1.0
+Mohammad Bagher Ghalibaf,Mohammad Bagher Ghalibaf,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Giorgos Tsatrafillias,Giorgos Tsatrafillias,PERSON,0.05833333333333333,0.325,en,1.0
 Klisto Artas,Klisto Artas,PERSON,0.0,0.0,en,1.0
 Theodoros Kolidas,Theodoros Kolidas,PERSON,0.0,0.0,en,1.0
-North Aegean,North Aegean,PERSON,0.0,1.0,en,1.0
 Miranda de Ebro,Miranda de Ebro,PERSON,0.15,0.7,en,1.0
 Miranda de Ebro - Municipal,Miranda de Ebro - Municipal,PERSON,0.0,0.0,en,1.0
 Polydroso Thesprotia,Polydroso Thesprotia,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
 Tasos Perdio,Tasos Perdio,PERSON,0.10238095238095238,0.4571428571428572,en,1.0
 Egnatia Odos,Egnatia Odos,PERSON,0.5,0.5,en,1.0
 Sofiana Corinthia - Strong,Sofiana Corinthia - Strong,PERSON,0.4333333333333333,0.7333333333333333,en,1.0
+Evangelia Plataniotis,Evangelia Plataniotis,PERSON,0.0,0.0,en,1.0
 Mark Gurman,Mark Gurman,PERSON,0.16233766233766234,0.5173160173160173,en,1.0
-Daniel Matthews,Daniel Matthews,PERSON,0.08333333333333334,0.25,en,1.0
 Brown | Fire,Brown | Fire,PERSON,0.0,0.0,en,1.0
 Usain Bolt - NAUTEM,Usain Bolt - NAUTEM,PERSON,-0.1,0.6,en,1.0
 Usain Bolt,Usain Bolt,PERSON,0.0,0.0,en,1.0
 Sotiroula Charalambous,Sotiroula Charalambous,PERSON,0.016666666666666673,0.5416666666666666,en,1.0
-Daniel - ,Daniel - ,PERSON,-0.05,0.1125,en,1.0
+Vlochos Karditsa,Vlochos Karditsa,PERSON,-0.05,0.1125,en,1.0
 Vlocho Karditsa,Vlocho Karditsa,PERSON,-0.38333333333333325,0.5277777777777778,en,1.0
 Vlochos Karditsas,Vlochos Karditsas,PERSON,-0.10000000000000002,0.10833333333333334,en,1.0
 Fotia Kalamaria,Fotia Kalamaria,PERSON,0.0,0.0,en,1.0
-Zohran Mamdani,Zohran Mamdani,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Vlochos Karditsa,Vlochos Karditsa,PERSON,-0.05,0.1125,en,1.0
-Anna Diamantopoulou,Anna Diamantopoulou,PERSON,0.04545454545454545,0.15151515151515152,en,1.0
+Daniel - ,Daniel - ,PERSON,-0.05,0.1125,en,1.0
+Nikos Androulakis,Nikos Androulakis,PERSON,0.04545454545454545,0.15151515151515152,en,1.0
 Gus Kenworthy,Gus Kenworthy,PERSON,0.0,0.0,en,1.0
 Bekir Aksun,Bekir Aksun,PERSON,0.13636363636363635,0.5,en,1.0
 Picrodafni swelled,Picrodafni swelled,PERSON,-0.13333333333333328,0.7,en,1.0
@@ -110,8 +112,8 @@ Glyfa Fthiotida,Glyfa Fthiotida,PERSON,-0.6999999999999998,0.6666666666666666,en
 Giannis Kalianos,Giannis Kalianos,PERSON,-0.14166666666666664,0.5166666666666666,en,1.0
 Kallianou bell,Kallianou bell,PERSON,-0.25454545454545446,0.507070707070707,en,1.0
 Manolis Christodoulakis,Manolis Christodoulakis,PERSON,0.04545454545454545,0.15151515151515152,en,1.0
-Nikos Androulakis,Nikos Androulakis,PERSON,0.04545454545454545,0.15151515151515152,en,1.0
 Vassilis Spanakis,Vassilis Spanakis,PERSON,-0.27499999999999997,0.3333333333333333,en,1.0
+Anna Diamantopoulou,Anna Diamantopoulou,PERSON,0.04545454545454545,0.15151515151515152,en,1.0
 Haris Doukas,Haris Doukas,PERSON,0.04545454545454545,0.15151515151515152,en,1.0
 Haris Kontoe,Haris Kontoe,PERSON,0.033333333333333326,0.4666666666666666,en,1.0
 Chandra | Plummers,Chandra | Plummers,PERSON,-0.08888888888888885,0.4666666666666666,en,1.0
@@ -126,4 +128,4 @@ Yiannis Seretis,Yiannis Seretis,PERSON,0.3,0.4666666666666666,en,1.0
 Recep Tayyip Erdogan,Recep Tayyip Erdogan,PERSON,-0.14999999999999997,0.32333333333333336,en,1.0
 Pavlos Marinakis,Pavlos Marinakis,PERSON,-0.14999999999999997,0.32333333333333336,en,1.0
 Christos Zerefou,Christos Zerefou,PERSON,0.35714285714285715,0.4642857142857143,en,1.0
-Giorgos Tsatrafillias,Giorgos Tsatrafillias,PERSON,0.05833333333333333,0.325,en,1.0
+Jason Momoa,Jason Momoa,PERSON,0.5,0.5,en,1.0

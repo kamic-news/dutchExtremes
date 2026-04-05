@@ -123,7 +123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,Ξηρασία Νέα Νότια Ουαλία,2026-03-19T04:36:00+00:00,Australia,0.3193675107648344,0,1,el,EAU,Oceania
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,κρύος καιρός νότια Αυστραλία,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,el,CAU,Oceania
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,κρύο ξόρκι αυστραλία,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,el,CAU,Oceania
-'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας indusa,2026-04-03T04:42:00+00:00,,0.31683913548346787,0,1,el,SIO,Indian Ocean
+'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας indusa,2026-04-03T04:42:00+00:00,,0.3168391354834678,0,1,el,SIO,Indian Ocean
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,χαλάζι,2026-02-21T04:17:00+00:00,,0.316511782777499,2,2,el,,
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας 28π,2026-03-24T04:31:00+00:00,,0.3156444609984395,0,1,el,SPO,Pacific Ocean
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,κρύο κύμα Νέα Νότια Ουαλία,2026-03-31T05:00:00+00:00,Australia,0.3146116457671248,0,1,el,EAU,Oceania
@@ -212,7 +212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ebe9220c27',extremes,Snow&Ice,#d60d2b,wmo,παγετός μπουίρα,2026-04-02T04:42:00+00:00,Algeria,0.3048987922028955,0,1,el,SAH,Africa
 'e0317bbd00',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα περιοχή Όρενμπουργκ,2026-04-01T05:12:00+00:00,Russia,0.3048917293129805,0,1,el,ESB,Europe
 '4a4191209b',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα περιοχή Σμολένσκ,2026-04-01T05:12:00+00:00,Russia,0.3048871120735542,0,1,el,ESB,Europe
-'2aefcc58de',extremes,Tropical Cyclone,#4f4f4f,wmo,τροπικός κυκλώνας Δανία,2026-04-04T04:30:00+00:00,Denmark,0.30485951326846483,0,1,el,NEU,Europe
+'2aefcc58de',extremes,Tropical Cyclone,#4f4f4f,wmo,τροπικός κυκλώνας Δανία,2026-04-04T04:30:00+00:00,Denmark,0.3048595132684648,0,1,el,NEU,Europe
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-03-27T04:56:00+00:00,,0.3048577872373129,0,1,el,,
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Εκουαδόρ,2026-04-03T04:43:00+00:00,Ecuador,0.3048517219060076,0,1,el,NWS,South-America
 '042968096b',extremes,Storm,#b3b2b1,wmo,καταιγίδα Ισλανδία,2026-03-17T04:30:00+00:00,Iceland,0.3047465180858393,0,1,el,GIC,Europe
@@ -222,17 +222,27 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,παγετός Καναδάς,2026-03-22T04:33:00+00:00,Canada,0.3046577968345308,0,1,el,NEN,North-America
 '0719424b4d',extremes,Snow&Ice,#d60d2b,wmo,snow blida,2026-03-29T05:00:00+00:00,Algeria,0.3045986241432377,0,1,el,SAH,Africa
 '5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Τσεχία,2026-03-26T04:56:00+00:00,Czechia,0.3045775518637997,0,1,el,WCE,Europe
-'f85bf58878',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά του Πεκίνου,2026-03-28T04:33:00+00:00,China,0.30456860296322635,0,1,el,EAS,Asia
+'f85bf58878',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά του Πεκίνου,2026-03-28T04:33:00+00:00,China,0.3045686029632263,0,1,el,EAS,Asia
 '6a584d641c',extremes,Landslide,#572c03,wmo,κατολίσθηση λάσπης lushan city,2026-03-28T04:33:00+00:00,China,0.3045639453683775,0,1,el,EAS,Asia
 '7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,καταιγίδα κατάρ,2026-03-28T04:33:00+00:00,Qatar,0.3044926274014642,0,1,el,ARP,Asia
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,βροχή αλγερία,2026-04-01T05:12:00+00:00,Algeria,0.3044901880471763,0,1,el,SAH,Africa
 'f7a6169f5f',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα περιοχή του Βλαντιμίρ,2026-04-01T05:12:00+00:00,Russia,0.3044761245662344,0,1,el,ESB,Europe
 '78e909d3d3',extremes,Flood,#030ba1,wmo,πλημμύρα Ισραήλ,2026-03-21T04:17:00+00:00,Israel,0.3044747799722631,0,1,el,MED,Asia
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Ινδία,2026-04-03T04:43:00+00:00,India,0.3044412617861554,0,1,el,SAS,Asia
+'2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,νεροποντή νότια Αφρική,2026-04-03T04:43:00+00:00,South Africa,0.304384035825092,0,1,el,WSAF,Africa
+'8a3ed6b772',extremes,Heat Wave,#c40202,wmo,περιοχή καύσωνα ryazan,2026-04-01T05:12:00+00:00,Russia,0.3043731521621845,0,1,el,ESB,Europe
 'ce4931e51e',extremes,Flood,#030ba1,wmo,αστραπιαία πλημμύρα νότια αυστραλιανή κολπίσκο,2026-03-17T04:30:00+00:00,Australia,0.3042882950231316,0,1,el,CAU,Oceania
+'0ea3de86e9',extremes,Wildfire,#d60d2b,wmo,wildfire China,2026-03-17T04:30:00+00:00,China,0.30425366771871043,0,1,el,EAS,Asia
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,πλημμύρες στις Ηνωμένες Πολιτείες,2026-03-20T04:26:00+00:00,United States,0.30418935018464893,0,1,el,CNA,North-America
+'854af57bd3',extremes,Fog,#d60d2b,wmo,ομίχλη Καναδάς,2026-04-03T04:43:00+00:00,Canada,0.30418767183848067,0,1,el,NEN,North-America
 'a5a19a733b',extremes,Flood,#030ba1,wmo,flashflood αιθιοπία,2026-03-29T05:00:00+00:00,Ethiopia,0.3041647558920509,0,1,el,NEAF,Africa
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά στην Ινδία,2026-04-03T04:43:00+00:00,India,0.304163921300572,0,1,el,SAS,Asia
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,τροπικός κυκλώνας Αυστραλία,2026-03-19T04:35:00+00:00,Australia,0.3041019334992522,0,1,el,NAU,Oceania
+'271200cbb0',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά andhra Pradesh,2026-04-03T04:43:00+00:00,India,0.30405742148731385,0,1,el,SAS,Asia
 '5b84b6b854',extremes,Tsunami,#690191,usgs,τσουνάμι βόρεια μεσοατλαντική κορυφογραμμή,2026-03-22T04:33:00+00:00,,0.3040556148362816,0,1,el,NAO,Atlantic Ocean
+'5282102178',extremes,Flood,#030ba1,wmo,flashflood israel,2026-03-18T04:36:00+00:00,Israel,0.30404536367311524,0,1,el,MED,Asia
+'4189c0a405',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Κίνα,2026-03-19T04:35:00+00:00,China,0.3040389439026394,0,1,el,EAS,Asia
+'f986239716',extremes,Wildfire,#d60d2b,wmo,wildfire gujarat,2026-04-03T04:43:00+00:00,India,0.3040090207763129,0,1,el,SAS,Asia
 '054f4c1126',extremes,Fog,#d60d2b,wmo,ομίχλη κοιλάδα του Ισραήλ,2026-03-24T04:31:00+00:00,Israel,0.3039470027268419,0,1,el,MED,Asia
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,wildfire Ηνωμένες Πολιτείες,2026-03-18T04:36:00+00:00,United States,0.3039405901878269,0,1,el,CNA,North-America
 '5295642073',extremes,Flood,#030ba1,wmo,πλημμυρίζοντας τη Ρωσία,2026-03-30T05:12:00+00:00,Russia,0.3039169689649052,0,1,el,ESB,Europe

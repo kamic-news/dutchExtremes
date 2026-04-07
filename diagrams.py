@@ -394,6 +394,7 @@ def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
   df2 = df2.sort_values(counter, ascending=False)
   print(['df1',df1])
   rest = df1[df1['fraction']>limit].sum()
+  rest = rest.select_dtypes(include=['number'])
   df2 = df2.head(maxSize)  #todo add to rest...
   fraction = 0.0
   if(countAll>0):

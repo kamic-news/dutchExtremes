@@ -1,9 +1,6 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:white_check_mark: EXTREME_LANGUAGE key exists  
-:white_check_mark: NewsAPI respone fine  
-:white_check_mark: NewsAPI status fine  
-:white_check_mark: NewsAPI results found  
+:white_check_mark: EXTREME_LANGUAGE key exists (el)  
 ### EXTREME_GH_TOKEN  
 :white_check_mark: EXTREME_GH_TOKEN exists  
 :white_check_mark: EXTREME_GH_TOKEN working  

@@ -393,7 +393,7 @@ def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
   df2 = df1[df1['fracSum']<=limit] 
   df2 = df2.sort_values(counter, ascending=False)
   df3 = df1.select_dtypes(include=['number'])
-  print(['df3',df3])
+  ##print(['df3',df3])
   rest = df3[df3['fraction']>limit].sum()
   df2 = df2.head(maxSize)  #todo add to rest...
   fraction = 0.0
@@ -402,7 +402,7 @@ def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
     fraction = rest/countAll
   newRow = pd.Series(data={counter:rest, 'fraction':fraction, 'fracSum':1.0}, name='Other')
   #df2 = df2.append(newRow, ignore_index=False)
-  print(df2[counter])
+  ##print(df2[counter])
   #df2 = df2.sort_values([counter], ascending=False)
   return df2  
 

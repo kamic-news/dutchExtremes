@@ -29,7 +29,7 @@ DATA_PATH = Path.cwd()
 
 extremeColors = {'unknown':'#ffffff', 'Thunderstorm':'#53785a', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A', 'Wet Spell':'#22e91f',
                'Tsunami':'#690191',  'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
-                 'Snow Avalanche':'#deddd5', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Flood':'#030ba1', 'Drought':'#572c03', 'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Earthquake':'#870047', 'Insect Infestation':'#333333'  
+                 'Snow Avalanche':'#deddd5', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Flood':'#030ba1', 'Drought':'#572c03', 'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Earthquake':'#870047', 'Insect Infestation':'#333333', 'ice jam':'#02b5b8'  
                }
 
 

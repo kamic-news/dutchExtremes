@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'923977770d',extremes,Precipitation,#d60d2b,wmo,βροχή κρίτι,2026-04-17T05:16:00+00:00,Greece,0.6073198380273364,0,1,el,MED,Europe
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-03-25T04:33:00+00:00,Greece,0.5210659162562966,4,1,el,MED,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-04-08T05:00:00+00:00,,0.5157212330699479,2,3,el,,
 '8a43d8e39b',extremes,Thunderstorm,#53785a,wmo,χαλάζι κρήτη,2026-03-25T04:33:00+00:00,Greece,0.5072902803964178,2,1,el,MED,Europe
@@ -200,7 +201,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας κόλπος yakutat,2026-03-31T04:59:00+00:00,United States,0.30282766855613,0,1,el,CNA,North-America
 '6e18c8b44d',extremes,Snow&Ice,#d60d2b,wmo,παγετός Ίνσμπρουκ σταντ,2026-03-25T04:33:00+00:00,Austria,0.3028205046487009,0,1,el,WCE,Europe
 '56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Αυστρία,2026-03-25T04:33:00+00:00,Austria,0.3028203664971698,0,1,el,WCE,Europe
+'7ef3a20daf',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Γκαλάπαγκος,2026-04-17T05:16:00+00:00,Ecuador,0.3028155901980441,0,1,el,NWS,South-America
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας αυστρία,2026-03-25T04:33:00+00:00,Austria,0.302796385673814,0,1,el,WCE,Europe
+'d56de5f4df',extremes,Drought,#edc291,edo,έλλειψη βροχής Λετονία,2026-04-11T04:34:00+00:00,Latvia,0.30278475107103886,0,1,el,WCE,Europe
+'2cb70e27d7',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα δημοκρατία της Buryatia,2026-04-10T05:13:00+00:00,Russia,0.3027725251001858,0,1,el,ESB,Europe
+'79e64835e0',extremes,Wildfire,#d60d2b,wmo,wildfire κομητεία qiubei,2026-04-05T05:01:00+00:00,China,0.3027483918448603,0,1,el,EAS,Asia
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,κρύο ξόρκι,2026-03-31T04:59:00+00:00,,0.2907083814729055,1,1,el,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,δυνατή βροχή,2026-03-26T04:56:00+00:00,,0.2900593755530074,1,1,el,,
 'a652c78afc',extremes,Drought,#edc291,random,μέγα ξηρασία,2026-04-09T04:57:00+00:00,,0.2897089760322336,1,1,el,,

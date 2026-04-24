@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-04-24T05:22:00+00:00,Greece,0.6172468436195878,0,1,el,MED,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-04-08T05:00:00+00:00,,0.4705873953821829,3,3,el,,
 '9391f481ee',extremes,Storm,#b3b2b1,random,ανεμοθύελλα,2026-03-27T04:56:00+00:00,,0.468805895253359,1,2,el,,
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-04-17T05:16:00+00:00,Greece,0.4679431602896395,2,1,el,MED,Europe
@@ -17,7 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f881445b97',extremes,Thunderstorm,#53785a,wmo,χαλάζι ήπειρος,2026-04-03T04:43:00+00:00,Greece,0.4365532020084781,2,1,el,MED,Europe
 'd7e7f876eb',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρίτη,2026-04-16T05:17:00+00:00,Greece,0.4324844625006583,2,1,el,MED,Europe
 '8a43d8e39b',extremes,Thunderstorm,#53785a,wmo,χαλάζι κρήτη,2026-03-25T04:33:00+00:00,Greece,0.4317967983369551,3,1,el,MED,Europe
-'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-04-22T05:13:00+00:00,Greece,0.42871190199235304,3,1,el,MED,Europe
+'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-04-22T05:13:00+00:00,Greece,0.428711901992353,3,1,el,MED,Europe
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,χιόνι,2026-03-29T04:59:00+00:00,,0.4281516150302,1,2,el,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,ανεμοστρόβιλος,2026-04-08T05:00:00+00:00,,0.4268637887841818,1,2,el,,
 'ff620d191d',extremes,Storm,#b3b2b1,wmo,καταιγίδα κεντρική Μακεδονία,2026-04-22T05:13:00+00:00,Greece,0.4260699806453649,2,1,el,MED,Europe
@@ -49,6 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ce1cfc375',extremes,Storm,#b3b2b1,wmo,καταιγίδα θρακή,2026-03-27T04:57:00+00:00,Greece,0.3857502821294131,2,1,el,MED,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,χαλάζι,2026-04-10T05:12:00+00:00,,0.3856412362087165,1,3,el,,
 'fe6660da97',extremes,Precipitation,#d60d2b,wmo,νεροποντή Κύπρος,2026-04-01T05:12:00+00:00,Cyprus,0.3839494546975208,2,1,el,MED,Europe
+'056bed0dad',extremes,Cold Wave,#a7e9fa,random,ο πιο κρύος χειμώνας,2026-04-13T05:27:00+00:00,,0.3832105171190673,0,1,el,,
 '02e04e6077',extremes,Thunderstorm,#53785a,wmo,καταιγίδα epirus,2026-04-21T05:15:00+00:00,Greece,0.3821888082328272,2,1,el,MED,Europe
 'e4e5e18877',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ανατολική στερεά αμπ Εύβοια,2026-03-25T04:33:00+00:00,Greece,0.3811275146074419,2,1,el,MED,Europe
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-03-23T04:42:00+00:00,Albania,0.3789065196188333,2,1,el,MED,Europe
@@ -107,22 +109,30 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-03-22T04:32:00+00:00,,0.3078389122815254,1,1,el,,
 '0511e6ef31',extremes,Drought,#edc291,edo,ξηρασία Εσθονία,2026-04-12T05:12:00+00:00,Estonia,0.3075900845856897,0,1,el,NEU,Europe
 '7747997246',extremes,Fog,#d60d2b,wmo,ομίχλη ρωσία,2026-04-06T05:11:00+00:00,Russia,0.3070796534508373,0,1,el,ESB,Europe
+'f8714a698d',extremes,Precipitation,#d60d2b,wmo,νεροποντή Εκουαδόρ,2026-04-19T05:16:00+00:00,Ecuador,0.3068802284579577,0,1,el,NWS,South-America
 'cf828743a1',extremes,Precipitation,#d60d2b,wmo,νεροποντή orellana.,2026-04-23T05:16:00+00:00,Ecuador,0.3065414930858616,0,1,el,NWS,South-America
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση βραζιλία,2026-04-10T05:13:00+00:00,Brazil,0.3064847007703069,0,1,el,SAM,South-America
 'c585cfd7db',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία ανατολική Πελοπόννησος,2026-04-01T05:12:00+00:00,Greece,0.3058470904808867,3,1,el,MED,Europe
 'e7357c22dd',extremes,Fog,#d60d2b,wmo,ομίχλη βορειοδυτική negev δυτική negev,2026-04-23T05:16:00+00:00,Israel,0.3053439043328282,0,1,el,MED,Asia
+'b62570e7da',extremes,Precipitation,#d60d2b,wmo,βροχή Βανουάτου,2026-04-23T05:16:00+00:00,Vanuatu,0.3050942890614109,0,1,el,SPO,Oceania
 '06f31ff31a',extremes,Thunderstorm,#53785a,wmo,καταιγίδα γουινέα,2026-04-23T05:16:00+00:00,Guinea,0.3048294159602425,0,1,el,WAF,Africa
 'dba9977fc1',extremes,Drought,#edc291,edo,έλλειψη βροχής νησιά Φερόες,2026-04-12T05:12:00+00:00,Faroe Islands,0.304693593054291,0,1,el,NEU,Europe
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Βραζιλία,2026-04-20T05:27:00+00:00,Brazil,0.3044799593548411,0,1,el,SAM,South-America
 '38e672b274',extremes,Drought,#edc291,edo,ξηρότητα Γκαμπόν,2026-04-16T05:17:00+00:00,Gabon,0.3044673421680923,0,1,el,CAF,Africa
 '957c870453',extremes,Drought,#edc291,edo,ξηρασία Ισλανδία,2026-04-21T05:15:00+00:00,Iceland,0.3044263957284792,0,1,el,GIC,Europe
+'4189c0a405',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Κίνα,2026-04-08T05:01:00+00:00,China,0.30439099319966023,0,1,el,EAS,Asia
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,βροχή Καναδάς,2026-04-23T05:16:00+00:00,Canada,0.3042638033755329,0,1,el,NEN,North-America
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Σαουδική Αραβία,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3041905995534727,0,1,el,ARP,Asia
 '829105287e',extremes,Storm,#b3b2b1,wmo,καταιγίδα Τζαμάικα,2026-04-14T05:11:00+00:00,Jamaica,0.304106473051158,0,1,el,CAR,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,παγωμένος Καναδάς,2026-04-09T04:58:00+00:00,Canada,0.3038773755613299,0,1,el,NEN,North-America
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση Καναδάς,2026-04-17T05:16:00+00:00,Canada,0.3037908147591064,0,1,el,NEN,North-America
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα νορβηγία,2026-04-10T05:13:00+00:00,Norway,0.3034953160621461,0,1,el,NEU,Europe
+'fadc367829',extremes,Thunderstorm,#53785a,wmo,χαλάζι οράν,2026-04-24T05:22:00+00:00,Algeria,0.30342432173455913,0,1,el,SAH,Africa
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα γαλλία,2026-04-08T05:01:00+00:00,France,0.3033671229712569,0,1,el,WCE,Europe
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,νεροποντή Καναδάς,2026-04-22T05:13:00+00:00,Canada,0.3033169232644408,0,1,el,NEN,North-America
 '55946bf748',extremes,Drought,#edc291,edo,ξηρασία παραγουάη,2026-04-16T05:17:00+00:00,Paraguay,0.3032449413095507,0,1,el,SES,South-America
 '9fc62ce49b',extremes,Earthquake,#870007,usgs,σεισμός ανγκουίλα,2026-04-09T04:57:00+00:00,Anguilla,0.3031770227199946,0,1,el,NAO,Atlantic Ocean
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,βροχή Σαουδική Αραβία,2026-04-08T05:01:00+00:00,Saudi Arabia,0.30301831780046656,0,1,el,ARP,Asia
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα συχνά,2026-03-22T04:33:00+00:00,Norway,0.3030017343123978,0,1,el,NEU,Europe
 '7848dc716c',extremes,Landslide,#572c03,wmo,κατολίσθηση κομητεία Qianshan,2026-03-30T05:12:00+00:00,China,0.3029870200750736,0,1,el,EAS,Asia
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα nord troms,2026-04-10T05:13:00+00:00,Norway,0.3029410908172494,0,1,el,NEU,Europe
@@ -246,7 +256,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,νεροποντή Τανζανία,2026-03-25T04:33:00+00:00,Tanzania,0.2608071348454154,1,1,el,SEAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,νεροποντή Αργεντινή,2026-04-09T04:58:00+00:00,Argentina,0.2608004740294066,1,1,el,SES,South-America
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,καταιγίδα αλγερία,2026-04-06T05:11:00+00:00,Algeria,0.2607990355081002,1,1,el,SAH,Africa
-'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,βροχή Τανζανία,2026-04-09T04:58:00+00:00,Tanzania,0.26078461055387575,1,1,el,SEAF,Africa
+'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,βροχή Τανζανία,2026-04-09T04:58:00+00:00,Tanzania,0.2607846105538757,1,1,el,SEAF,Africa
 '92035e2c20',extremes,Drought,#edc291,edo,Ξηράδα Μαδαγασκάρη,2026-03-28T04:33:00+00:00,Madagascar,0.260673889676741,1,1,el,MDG,Africa
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας βουλγαρία,2026-04-07T04:59:00+00:00,Bulgaria,0.2606536907085245,1,1,el,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,βροχή Αργεντινή,2026-04-07T04:59:00+00:00,Argentina,0.26064838181168,1,1,el,SES,South-America
@@ -464,5 +474,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,παγετός bregenz,2026-03-25T04:33:00+00:00,Austria,0.2220907163252817,2,1,el,WCE,Europe
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.2220052426023687,2,1,el,WCE,Europe
 '2db1256b65',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας βόρεια Μακεδονία,2026-03-26T04:56:00+00:00,North Macedonia,0.2215358890587857,2,1,el,MED,Europe
-'2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,νεροποντή νότια Αφρική,2026-04-03T04:43:00+00:00,South Africa,0.21991746588362895,2,1,el,WSAF,Africa
+'2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,νεροποντή νότια Αφρική,2026-04-03T04:43:00+00:00,South Africa,0.2199174658836289,2,1,el,WSAF,Africa
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση Σαουδική Αραβία,2026-04-08T05:01:00+00:00,Saudi Arabia,0.2199102515853384,2,1,el,ARP,Asia

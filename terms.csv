@@ -112,11 +112,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,καταιγίδα,2026-03-16T05:04:00+00:00,,0.3073822308863808,2,2,el,,
 '7747997246',extremes,Fog,#d60d2b,wmo,ομίχλη ρωσία,2026-04-06T05:11:00+00:00,Russia,0.3070796534508373,0,1,el,ESB,Europe
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,βροχή Τανζανία,2026-04-09T04:58:00+00:00,Tanzania,0.3068054241810303,0,1,el,SEAF,Africa
+'cf828743a1',extremes,Precipitation,#d60d2b,wmo,νεροποντή orellana.,2026-04-23T05:16:00+00:00,Ecuador,0.3065414930858616,0,1,el,NWS,South-America
+'e7357c22dd',extremes,Fog,#d60d2b,wmo,ομίχλη βορειοδυτική negev δυτική negev,2026-04-23T05:16:00+00:00,Israel,0.30534390433282826,0,1,el,MED,Asia
+'06f31ff31a',extremes,Thunderstorm,#53785a,wmo,καταιγίδα γουινέα,2026-04-23T05:16:00+00:00,Guinea,0.3048294159602425,0,1,el,WAF,Africa
+'dba9977fc1',extremes,Drought,#edc291,edo,έλλειψη βροχής νησιά Φερόες,2026-04-12T05:12:00+00:00,Faroe Islands,0.30469359305429106,0,1,el,NEU,Europe
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Βραζιλία,2026-04-20T05:27:00+00:00,Brazil,0.3044799593548411,0,1,el,SAM,South-America
 '38e672b274',extremes,Drought,#edc291,edo,ξηρότητα Γκαμπόν,2026-04-16T05:17:00+00:00,Gabon,0.3044673421680923,0,1,el,CAF,Africa
 '957c870453',extremes,Drought,#edc291,edo,ξηρασία Ισλανδία,2026-04-21T05:15:00+00:00,Iceland,0.3044263957284792,0,1,el,GIC,Europe
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Σαουδική Αραβία,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3041905995534727,0,1,el,ARP,Asia
 '829105287e',extremes,Storm,#b3b2b1,wmo,καταιγίδα Τζαμάικα,2026-04-14T05:11:00+00:00,Jamaica,0.304106473051158,0,1,el,CAR,North-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,παγωμένος Καναδάς,2026-04-09T04:58:00+00:00,Canada,0.30387737556132993,0,1,el,NEN,North-America
+'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα νορβηγία,2026-04-10T05:13:00+00:00,Norway,0.3034953160621461,0,1,el,NEU,Europe
+'4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα γαλλία,2026-04-08T05:01:00+00:00,France,0.3033671229712569,0,1,el,WCE,Europe
+'970305e1b7',extremes,Precipitation,#d60d2b,wmo,νεροποντή Καναδάς,2026-04-22T05:13:00+00:00,Canada,0.3033169232644408,0,1,el,NEN,North-America
+'55946bf748',extremes,Drought,#edc291,edo,ξηρασία παραγουάη,2026-04-16T05:17:00+00:00,Paraguay,0.3032449413095507,0,1,el,SES,South-America
+'9fc62ce49b',extremes,Earthquake,#870007,usgs,σεισμός ανγκουίλα,2026-04-09T04:57:00+00:00,Anguilla,0.3031770227199946,0,1,el,NAO,Atlantic Ocean
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα συχνά,2026-03-22T04:33:00+00:00,Norway,0.3030017343123978,0,1,el,NEU,Europe
 '7848dc716c',extremes,Landslide,#572c03,wmo,κατολίσθηση κομητεία Qianshan,2026-03-30T05:12:00+00:00,China,0.3029870200750736,0,1,el,EAS,Asia
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα nord troms,2026-04-10T05:13:00+00:00,Norway,0.3029410908172494,0,1,el,NEU,Europe

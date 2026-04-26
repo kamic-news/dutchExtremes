@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-04-08T05:00:00+00:00,,0.4705873953821829,3,3,el,,
-'469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-04-11T04:34:00+00:00,Albania,0.46974613651948555,1,1,el,MED,Europe
+'776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-04-08T05:00:00+00:00,,0.48222369334758275,4,3,el,,
+'469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-04-11T04:34:00+00:00,Albania,0.4697461365194855,1,1,el,MED,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,ανεμοθύελλα,2026-03-27T04:56:00+00:00,,0.468805895253359,1,2,el,,
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-04-17T05:16:00+00:00,Greece,0.4679431602896395,2,1,el,MED,Europe
 '10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-04-24T05:22:00+00:00,Greece,0.4669087707753793,3,1,el,MED,Europe
@@ -91,11 +91,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2026-04-01T05:12:00+00:00,Greece,0.3390104719847316,5,1,el,MED,Europe
 'e4c6e7d8c1',extremes,Earthquake,#870007,usgs,σεισμός ιεράπετρα,2026-04-20T05:26:00+00:00,Greece,0.3381242079518929,2,1,el,MED,Europe
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά στην Ινδία,2026-04-03T04:43:00+00:00,India,0.3338393631054862,1,2,el,SAS,Asia
-'ccefefc59e',extremes,Drought,#edc291,random,αστραπιαία ξηρασία,2026-03-22T04:32:00+00:00,,0.3331456155057881,1,1,el,,
-'15a9c61e3e',extremes,Landslide,#572c03,random,κατολίσθηση,2026-04-20T05:26:00+00:00,,0.33249516438061266,1,1,el,,
+'15a9c61e3e',extremes,Landslide,#572c03,random,κατολίσθηση,2026-04-20T05:26:00+00:00,,0.3324951643806126,1,1,el,,
 '1368a0b03f',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας θεσσαλία,2026-04-01T05:12:00+00:00,Greece,0.3289791593709346,3,1,el,MED,Europe
 'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-03-27T04:57:00+00:00,Greece,0.3271226492811394,2,1,el,MED,Europe
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,βυθίσεις υδραργύρου,2026-04-26T05:25:00+00:00,,0.3245964723094341,0,1,el,,
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-04-03T04:43:00+00:00,Cyprus,0.3233512935163304,2,1,el,MED,Europe
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-03-26T04:56:00+00:00,Greece,0.3224624120200306,2,1,el,MED,Europe
 '4dcdf42491',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή αττική,2026-04-03T04:43:00+00:00,Greece,0.3206962498159686,2,1,el,MED,Europe
@@ -172,6 +170,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,ο πιο κρύος χειμώνας,2026-04-13T05:27:00+00:00,,0.2768695986185261,2,1,el,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,εθνικό κέντρο τυφώνων,2026-04-11T04:34:00+00:00,,0.2766707462066292,1,1,el,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,χιονολάσπη,2026-03-27T04:56:00+00:00,,0.2766282879914524,2,1,el,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,βυθίσεις υδραργύρου,2026-04-26T05:25:00+00:00,,0.275907001463019,1,1,el,,
 'f37139fe2d',extremes,Landslide,#572c03,random,κατολίσθηση,2026-03-29T04:59:00+00:00,,0.2755486916412444,1,1,el,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,ρεκόρ θερμότητας,2026-03-30T05:11:00+00:00,,0.2743212131852294,2,1,el,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,πάγος της Αρκτικής θάλασσας,2026-03-25T04:33:00+00:00,,0.2725899801874142,1,1,el,,

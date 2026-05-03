@@ -84,10 +84,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-04-24T05:21:00+00:00,,0.313725712257072,1,1,el,,
 '2250822817',extremes,Earthquake,#870007,usgs,σεισμός παραμυθιά,2026-04-02T04:41:00+00:00,Greece,0.3122900462846011,2,1,el,MED,Europe
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,κρύο κρούσμα,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,el,,
+'9a93354f3b',extremes,Drought,#edc291,edo,ανγκόλα ξηρής περιόδου,2026-04-27T05:40:00+00:00,Angola,0.3040599623911372,0,1,el,WSAF,Africa
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-04-18T04:56:00+00:00,,0.3027701500395653,2,1,el,,
+'3229c2d52c',extremes,Drought,#edc291,edo,ξηρασία φινλανδία,2026-04-28T05:45:00+00:00,Finland,0.3020545040622569,0,1,el,NEU,Europe
+'87ba69f7f2',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Μαλδίβες,2026-05-02T05:24:00+00:00,Maldives,0.3019175078825829,0,1,el,EIO,Indian Ocean
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Ουρουγουάη,2026-04-27T05:40:00+00:00,Uruguay,0.3017907652294113,0,1,el,SES,South-America
+'5f3d8bb0dd',extremes,Drought,#edc291,edo,"ξηρασία, δημοκρατική δημοκρατία του Κονγκό",2026-05-02T05:24:00+00:00,Democratic Republic of the Congo,0.3017280935630269,0,1,el,CAF,Africa
 '12775cc05a',extremes,Drought,#edc291,edo,ξηρασία Βραζιλία,2026-04-12T05:12:00+00:00,Brazil,0.3017065595892799,0,1,el,SAM,South-America
 '6c7c509ea5',extremes,Flood,#030ba1,wmo,πλημμύρα Σουηδία,2026-04-13T05:28:00+00:00,Sweden,0.3016657381844466,0,1,el,NEU,Europe
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,πλημμυρίζοντας τον Καναδά,2026-04-26T05:25:00+00:00,Canada,0.301651531839902,0,1,el,NEN,North-America
+'42edc58057',extremes,Drought,#edc291,edo,έλλειψη βροχής Παραγουάη,2026-04-14T05:11:00+00:00,Paraguay,0.3015786686699258,0,1,el,SES,South-America
 '4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-04-13T05:28:00+00:00,Greece,0.3012869452643262,4,1,el,MED,Europe
 '8fbed500bc',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση δυτική Μακεδονία,2026-04-03T04:43:00+00:00,Greece,0.3012104615189107,3,1,el,MED,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,χιόνι Αργεντινή,2026-04-11T04:34:00+00:00,Argentina,0.2968036107940153,3,1,el,SES,South-America
@@ -379,7 +385,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,αμμοθύελλα,2026-04-24T05:21:00+00:00,,0.2565695350444008,1,1,el,,
 '34799f2163',extremes,Drought,#edc291,edo,"ξηρασία, δημοκρατία του Κονγκό",2026-04-21T05:15:00+00:00,Republic of the Congo,0.2565501298204588,1,1,el,CAF,Africa
 '6d73764800',extremes,Earthquake,#870007,usgs,σεισμός ασημένιες πηγές,2026-04-14T05:10:00+00:00,United States,0.2565491652930308,1,1,el,WNA,North-America
-'e873273000',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μαλάουι,2026-04-23T05:16:00+00:00,Malawi,0.25653829571417863,1,1,el,ESAF,Africa
+'e873273000',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μαλάουι,2026-04-23T05:16:00+00:00,Malawi,0.2565382957141786,1,1,el,ESAF,Africa
 '7bc7d3a97f',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας παραθαλάσσιο εσωτερικό,2026-04-21T05:15:00+00:00,Ecuador,0.2564606219618339,1,1,el,NWS,South-America
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-04-22T05:13:00+00:00,,0.2550818673845632,2,1,el,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,πλημμύρα ποταμού,2026-04-20T05:26:00+00:00,,0.2539447896076066,2,1,el,,
@@ -428,4 +434,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση Καναδάς,2026-04-17T05:16:00+00:00,Canada,0.2194888636634543,2,1,el,NEN,North-America
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μαλδίβες,2026-04-09T04:58:00+00:00,Maldives,0.2194143521721991,2,1,el,EIO,Indian Ocean
 '9fc62ce49b',extremes,Earthquake,#870007,usgs,σεισμός ανγκουίλα,2026-04-09T04:57:00+00:00,Anguilla,0.219045398915196,2,1,el,NAO,Atlantic Ocean
-'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Αλγερία,2026-04-11T04:34:00+00:00,Algeria,0.18818481192519376,3,1,el,SAH,Africa
+'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Αλγερία,2026-04-11T04:34:00+00:00,Algeria,0.1881848119251937,3,1,el,SAH,Africa

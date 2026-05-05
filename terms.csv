@@ -74,7 +74,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2be0b56c90',extremes,Thunderstorm,#53785a,wmo,καταιγίδα νησιά Δωδεκάνησα,2026-04-25T05:00:00+00:00,Greece,0.3210928106268856,3,1,el,MED,Europe
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-04-21T05:15:00+00:00,Albania,0.3187487811530117,2,1,el,MED,Europe
 'b4b1c8c28e',extremes,Earthquake,#870007,usgs,σεισμός rodotópi,2026-04-18T04:56:00+00:00,Greece,0.3157797170600259,2,1,el,MED,Europe
-'82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-04-24T05:21:00+00:00,,0.313725712257072,1,1,el,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-04-18T04:56:00+00:00,,0.3027701500395653,2,1,el,,
 '4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-04-13T05:28:00+00:00,Greece,0.3012869452643262,4,1,el,MED,Europe
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,καταιγίδα αυστραλία,2026-04-08T05:01:00+00:00,Australia,0.2969617131716702,3,1,el,SAU,Oceania
@@ -96,6 +95,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b529f428',extremes,Thunderstorm,#53785a,random,χαλαζόπτωση,2026-04-17T05:15:00+00:00,,0.2775528973601039,2,1,el,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,ο πιο κρύος χειμώνας,2026-04-13T05:27:00+00:00,,0.2768695986185261,2,1,el,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-04-19T05:16:00+00:00,,0.269113815638027,2,1,el,,
+'82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-04-24T05:21:00+00:00,,0.2671169004185112,2,1,el,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,χιονόνερο,2026-04-10T05:12:00+00:00,,0.2670862897821824,2,1,el,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,νυχτερινός παγετός,2026-04-30T05:45:00+00:00,,0.2670822162729379,2,1,el,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,ακρίδα,2026-04-06T05:11:00+00:00,,0.2636984566817586,2,1,el,,

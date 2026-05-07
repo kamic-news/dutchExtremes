@@ -423,10 +423,11 @@ def inqRapidGoogleNews22(results=[]):
     headers = {
         'x-rapidapi-key': apiKey,
         'x-rapidapi-host': "google-news22.p.rapidapi.com"
+        'Content-Type': "application/json"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    # print(response.text)
+    print(response.text)
     print(response.status_code)     #400
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):

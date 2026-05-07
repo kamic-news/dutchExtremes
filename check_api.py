@@ -443,7 +443,7 @@ def inqRapidGoogleNews22(results=[]):
             return False
         if (('success' in jsonData) and jsonData['success']):
           results.append(":white_check_mark: Google-News-22 status fine")
-          if (('total' in jsonData) and (jsonData['total']>0)):
+          if (('totalHits' in jsonData) and (jsonData['totalHits']>0)):
             results.append(":white_check_mark: Google-News-22 results found")
             return True
           else: 

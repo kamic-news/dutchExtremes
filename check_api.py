@@ -422,7 +422,7 @@ def inqRapidGoogleNews22(results=[]):
     querystring = {"q":"Klimawandel","language":"de","country":"de"}
     headers = {
         'x-rapidapi-key': apiKey,
-        'x-rapidapi-host': "google-news22.p.rapidapi.com"
+        'x-rapidapi-host': "google-news22.p.rapidapi.com",
         'Content-Type': "application/json"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)

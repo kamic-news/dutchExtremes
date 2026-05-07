@@ -31,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03c0651f87',extremes,Thunderstorm,#53785a,wmo,χαλάζι Ιόνια νησιά,2026-05-02T05:24:00+00:00,Greece,0.3778867687131698,2,1,el,MED,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,καταιγίδα σκόνης,2026-04-28T05:44:00+00:00,,0.3738896486050868,2,1,el,,
 '923977770d',extremes,Precipitation,#d60d2b,wmo,βροχή κρίτι,2026-04-17T05:16:00+00:00,Greece,0.3729702955285379,3,1,el,MED,Europe
+'f9a3abc8c2',extremes,Landslide,#572c03,random,λάσπη,2026-05-05T05:28:00+00:00,,0.3692351588807912,1,2,el,,
 '3ea3d085b4',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας κεντρική Μακεδονία,2026-05-03T05:44:00+00:00,Greece,0.3678747336101803,3,1,el,MED,Europe
 '899b6cb615',extremes,Storm,#b3b2b1,wmo,καταιγίδα κυκλάδες,2026-05-03T05:44:00+00:00,Greece,0.3678612133614097,3,1,el,MED,Europe
 'd7e7f876eb',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρίτη,2026-04-16T05:17:00+00:00,Greece,0.3676117931255595,3,1,el,MED,Europe
@@ -62,15 +63,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '363ce72927',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-04-16T05:17:00+00:00,Albania,0.3330285356978378,2,1,el,MED,Europe
 'ab90cfcdd4',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-05-03T05:44:00+00:00,Albania,0.3217558749918215,2,1,el,MED,Europe
 '2be0b56c90',extremes,Thunderstorm,#53785a,wmo,καταιγίδα νησιά Δωδεκάνησα,2026-04-25T05:00:00+00:00,Greece,0.3210928106268856,3,1,el,MED,Europe
-'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,θερμό ξόρκι Αυστραλία,2026-05-04T05:50:00+00:00,Australia,0.31925916326850523,0,1,el,CAU,Oceania
-'2595e5c49a',extremes,Flood,#030ba1,acwe,υψηλή στάθμη νερού Αυστραλία,2026-05-04T05:50:00+00:00,Australia,0.3190603070316364,0,1,el,CAU,Oceania
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-04-21T05:15:00+00:00,Albania,0.3187487811530117,2,1,el,MED,Europe
 'b4b1c8c28e',extremes,Earthquake,#870007,usgs,σεισμός rodotópi,2026-04-18T04:56:00+00:00,Greece,0.3157797170600259,2,1,el,MED,Europe
-'f9a3abc8c2',extremes,Landslide,#572c03,random,λάσπη,2026-05-05T05:28:00+00:00,,0.31515885162446033,0,1,el,,
 'fbaa1c52eb',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-04-19T05:16:00+00:00,Cyprus,0.3151500741674673,4,1,el,MED,Europe
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,θαλάσσιος πάγος της Ανταρκτικής,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,el,,
-'4d9577e33d',extremes,Volcano,#b83202,random,ηφαίστειο,2026-04-28T05:44:00+00:00,,0.31416687353601136,0,1,el,,
-'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,καταιγίδα χαλαζόπτωση Σίδνεϊ Νέα Νότια Ουαλία 2015,2026-04-21T05:15:00+00:00,,0.31353566511126285,0,1,el,EAU,Oceania
+'4d9577e33d',extremes,Volcano,#b83202,random,ηφαίστειο,2026-04-28T05:44:00+00:00,,0.3141668735360113,0,1,el,,
+'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,καταιγίδα χαλαζόπτωση Σίδνεϊ Νέα Νότια Ουαλία 2015,2026-04-21T05:15:00+00:00,,0.3135356651112628,0,1,el,EAU,Oceania
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-05-06T05:43:00+00:00,,0.3135193035600587,0,1,el,,
 '9391f481ee',extremes,Storm,#b3b2b1,random,ανεμοθύελλα,2026-05-06T05:43:00+00:00,,0.3126841250056201,1,1,el,,
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-04-16T05:17:00+00:00,Greece,0.3122971323644279,2,1,el,MED,Europe
@@ -102,6 +100,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,καύσωνας νότια Αυστραλία,2026-05-04T05:50:00+00:00,Australia,0.271526816586176,1,1,el,CAU,Oceania
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,καύσωνας Νέα Νότια Ουαλία,2026-05-04T05:50:00+00:00,Australia,0.2715090824876664,1,1,el,EAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,υγρό ξόρκι Νέα Νότια Ουαλία,2026-05-04T05:50:00+00:00,Australia,0.2715066060127571,1,1,el,EAU,Oceania
+'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,θερμό ξόρκι Αυστραλία,2026-05-04T05:50:00+00:00,Australia,0.2713702887782294,1,1,el,CAU,Oceania
+'2595e5c49a',extremes,Flood,#030ba1,acwe,υψηλή στάθμη νερού Αυστραλία,2026-05-04T05:50:00+00:00,Australia,0.27120126097689096,1,1,el,CAU,Oceania
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-04-19T05:16:00+00:00,,0.269113815638027,2,1,el,,
 '82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-04-24T05:21:00+00:00,,0.2671169004185112,2,1,el,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,χιονόνερο,2026-04-10T05:12:00+00:00,,0.2670862897821824,2,1,el,,

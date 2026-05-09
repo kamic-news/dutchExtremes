@@ -66,21 +66,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4b1c8c28e',extremes,Earthquake,#870007,usgs,σεισμός rodotópi,2026-04-18T04:56:00+00:00,Greece,0.3157797170600259,2,1,el,MED,Europe
 'fbaa1c52eb',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-04-19T05:16:00+00:00,Cyprus,0.3151500741674673,4,1,el,MED,Europe
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-04-16T05:17:00+00:00,Greece,0.3122971323644279,2,1,el,MED,Europe
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Αργεντινή,2026-04-28T05:45:00+00:00,Argentina,0.3075939111804926,0,1,el,SES,South-America
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Αργεντινή,2026-04-28T05:45:00+00:00,Argentina,0.3075939111804926,1,1,el,SES,South-America
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,περιοχή βροχής buller,2026-05-08T05:16:00+00:00,New Zealand,0.3073587133009319,0,1,el,NZ,Oceania
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,βροχή Αργεντινή,2026-04-28T05:45:00+00:00,Argentina,0.3072556093043335,0,1,el,SES,South-America
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή δυτική περιοχή,2026-05-06T05:43:00+00:00,New Zealand,0.3071627076656484,0,1,el,NZ,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,νεροποντή Νέα Ζηλανδία,2026-04-23T05:16:00+00:00,New Zealand,0.3071285506379418,0,1,el,NZ,Oceania
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή región amazónica,2026-05-04T05:50:00+00:00,Ecuador,0.3070372550129375,0,1,el,NWS,South-America
-'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,νεροποντή fiordland βόρεια από αμφίβολο ήχο,2026-05-05T05:29:00+00:00,New Zealand,0.30678478795069103,0,1,el,NZ,Oceania
+'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,νεροποντή fiordland βόρεια από αμφίβολο ήχο,2026-05-05T05:29:00+00:00,New Zealand,0.306784787950691,0,1,el,NZ,Oceania
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση τανζανία,2026-04-27T05:40:00+00:00,Tanzania,0.3065572945337175,0,1,el,SEAF,Africa
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,βροχή Ισημερινός,2026-04-22T05:13:00+00:00,Ecuador,0.3064768365885684,0,1,el,NWS,South-America
-'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,παγετός Αυστραλία,2026-04-24T05:22:00+00:00,Australia,0.30572391800364446,0,1,el,CAU,Oceania
-'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,frost gateau,2026-05-08T05:16:00+00:00,Canada,0.30444896819546663,0,1,el,NEN,North-America
-'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,χιόνι Ρωσία,2026-04-27T05:40:00+00:00,Russia,0.30403061431141837,0,1,el,ESB,Europe
-'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Αργεντινή,2026-04-26T05:25:00+00:00,Argentina,0.30394259260687684,0,1,el,SES,South-America
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,παγετός Αυστραλία,2026-04-24T05:22:00+00:00,Australia,0.3057239180036444,0,1,el,CAU,Oceania
+'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,frost gateau,2026-05-08T05:16:00+00:00,Canada,0.3044489681954666,0,1,el,NEN,North-America
+'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,χιόνι Ρωσία,2026-04-27T05:40:00+00:00,Russia,0.3040306143114183,0,1,el,ESB,Europe
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Αργεντινή,2026-04-26T05:25:00+00:00,Argentina,0.3039425926068768,0,1,el,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,καταιγίδα Αργεντινή,2026-04-26T05:25:00+00:00,Argentina,0.3038657514084334,0,1,el,SES,South-America
-'563b781620',extremes,Thunderstorm,#53785a,wmo,έντονες καιρικές συνθήκες Νιγηρία,2026-05-08T05:16:00+00:00,Nigeria,0.30378100408061476,0,1,el,WAF,Africa
+'563b781620',extremes,Thunderstorm,#53785a,wmo,έντονες καιρικές συνθήκες Νιγηρία,2026-05-08T05:16:00+00:00,Nigeria,0.3037810040806147,0,1,el,WAF,Africa
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,καταιγίδα νότια Αφρική,2026-05-05T05:29:00+00:00,South Africa,0.3036504569362573,0,1,el,WSAF,Africa
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-04-18T04:56:00+00:00,,0.3027701500395653,2,1,el,,
 '4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-04-13T05:28:00+00:00,Greece,0.3012869452643262,4,1,el,MED,Europe

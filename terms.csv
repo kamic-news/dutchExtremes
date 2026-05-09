@@ -72,6 +72,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή δυτική περιοχή,2026-05-06T05:43:00+00:00,New Zealand,0.3071627076656484,0,1,el,NZ,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,νεροποντή Νέα Ζηλανδία,2026-04-23T05:16:00+00:00,New Zealand,0.3071285506379418,0,1,el,NZ,Oceania
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή región amazónica,2026-05-04T05:50:00+00:00,Ecuador,0.3070372550129375,0,1,el,NWS,South-America
+'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,νεροποντή fiordland βόρεια από αμφίβολο ήχο,2026-05-05T05:29:00+00:00,New Zealand,0.30678478795069103,0,1,el,NZ,Oceania
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση τανζανία,2026-04-27T05:40:00+00:00,Tanzania,0.3065572945337175,0,1,el,SEAF,Africa
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,βροχή Ισημερινός,2026-04-22T05:13:00+00:00,Ecuador,0.3064768365885684,0,1,el,NWS,South-America
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,παγετός Αυστραλία,2026-04-24T05:22:00+00:00,Australia,0.30572391800364446,0,1,el,CAU,Oceania
+'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,frost gateau,2026-05-08T05:16:00+00:00,Canada,0.30444896819546663,0,1,el,NEN,North-America
+'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,χιόνι Ρωσία,2026-04-27T05:40:00+00:00,Russia,0.30403061431141837,0,1,el,ESB,Europe
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Αργεντινή,2026-04-26T05:25:00+00:00,Argentina,0.30394259260687684,0,1,el,SES,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,καταιγίδα Αργεντινή,2026-04-26T05:25:00+00:00,Argentina,0.3038657514084334,0,1,el,SES,South-America
+'563b781620',extremes,Thunderstorm,#53785a,wmo,έντονες καιρικές συνθήκες Νιγηρία,2026-05-08T05:16:00+00:00,Nigeria,0.30378100408061476,0,1,el,WAF,Africa
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,καταιγίδα νότια Αφρική,2026-05-05T05:29:00+00:00,South Africa,0.3036504569362573,0,1,el,WSAF,Africa
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-04-18T04:56:00+00:00,,0.3027701500395653,2,1,el,,
 '4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-04-13T05:28:00+00:00,Greece,0.3012869452643262,4,1,el,MED,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-04-11T04:34:00+00:00,,0.2990636957570182,2,2,el,,

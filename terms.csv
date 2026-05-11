@@ -63,6 +63,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbaa1c52eb',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-04-19T05:16:00+00:00,Cyprus,0.3151500741674673,4,1,el,MED,Europe
 '3ea3d085b4',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας κεντρική Μακεδονία,2026-05-03T05:44:00+00:00,Greece,0.3126935235686532,4,1,el,MED,Europe
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-04-16T05:17:00+00:00,Greece,0.3122971323644279,2,1,el,MED,Europe
+'aa20e76f2d',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή overstrand hermanus,2026-05-10T05:51:00+00:00,South Africa,0.30320145767486817,0,1,el,WSAF,Africa
+'8db658717e',extremes,Flood,#030ba1,wmo,flashflood αυστραλία,2026-04-26T05:25:00+00:00,Australia,0.30312336702051035,0,1,el,CAU,Oceania
+'80d50b76c6',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Σαουδική Αραβία,2026-04-27T05:40:00+00:00,Saudi Arabia,0.30311368713595654,0,1,el,ARP,Asia
+'e9816a8a17',extremes,Snow&Ice,#d60d2b,wmo,πάγος νότια Αφρική,2026-05-05T05:29:00+00:00,South Africa,0.30311003076584475,0,1,el,WSAF,Africa
+'38da30ea06',extremes,Storm,#b3b2b1,wmo,καταιγίδα ταρανάκι,2026-05-07T05:46:00+00:00,New Zealand,0.3031011234916846,0,1,el,NZ,Oceania
+'a7692ca80d',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα νότια του κράι Kamchatka,2026-05-05T05:29:00+00:00,Russia,0.30309889408777857,0,1,el,ESB,Europe
+'475ba7d4ed',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Λευκορωσία,2026-05-06T05:43:00+00:00,Belarus,0.3030808284021078,0,1,el,WCE,Europe
+'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Ινδία,2026-04-24T05:22:00+00:00,India,0.3030790653689959,0,1,el,SAS,Asia
+'e84ad823fc',extremes,Thunderstorm,#53785a,wmo,χαλάζι Μαλδίβες,2026-05-04T05:50:00+00:00,Maldives,0.3030353945259056,0,1,el,EIO,Indian Ocean
+'ed5655acf2',extremes,Flood,#030ba1,wmo,πλημμύρα νότια αυστραλία warburton,2026-04-28T05:45:00+00:00,Australia,0.30301897826458063,0,1,el,CAU,Oceania
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-04-18T04:56:00+00:00,,0.3027701500395653,2,1,el,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,παγόβουνο Ανταρκτική,2026-04-23T05:16:00+00:00,,0.3017193410972954,2,1,el,,
 '4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-04-13T05:28:00+00:00,Greece,0.3012869452643262,4,1,el,MED,Europe

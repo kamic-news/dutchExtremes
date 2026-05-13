@@ -69,7 +69,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,παγετός Αργεντινή,2026-05-01T05:54:00+00:00,Argentina,0.3065824958371068,0,1,el,SES,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,καταιγίδα Βραζιλία,2026-05-02T05:24:00+00:00,Brazil,0.3039558838015082,0,1,el,SAM,South-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας περιοχή 1 – σοβαρή,2026-05-02T05:24:00+00:00,Paraguay,0.3036621508677689,0,1,el,SES,South-America
+'6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα δημοκρατία της ινγκουσετίας,2026-04-28T05:45:00+00:00,Russia,0.30352072279841585,0,1,el,ESB,Europe
+'a46ce587cc',extremes,Precipitation,#d60d2b,wmo,βροχή región litoral,2026-05-12T05:52:00+00:00,Ecuador,0.3031784060855318,0,1,el,NWS,South-America
+'007fd2f525',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας m_table bay table Bay,2026-05-12T05:52:00+00:00,South Africa,0.3031278938221363,0,1,el,WSAF,Africa
+'aab7909052',extremes,Fog,#d60d2b,wmo,ομίχλη Ισραήλ,2026-04-25T05:00:00+00:00,Israel,0.30277684141660416,0,1,el,MED,Asia
+'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή περιοχή νησιωτική,2026-05-11T06:14:00+00:00,Ecuador,0.3027764446346575,0,1,el,NWS,South-America
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-04-18T04:56:00+00:00,,0.3027701500395653,2,1,el,,
+'97a5343951',extremes,Precipitation,#d60d2b,wmo,βροχή Σεϋχέλλες,2026-05-07T05:46:00+00:00,Seychelles,0.3027467965295796,0,1,el,EIO,Africa
+'80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,ice Ηνωμένες Πολιτείες,2026-04-26T05:25:00+00:00,United States,0.3027386561297255,0,1,el,CNA,North-America
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,καταιγίδα Βανουάτου,2026-05-10T05:51:00+00:00,Vanuatu,0.3027235871942443,0,1,el,SPO,Oceania
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση Ισημερινός,2026-05-09T05:36:00+00:00,Ecuador,0.3027170098087226,0,1,el,NWS,South-America
+'7fb436f320',extremes,Storm,#b3b2b1,wmo,καταιγίδα m_table bay table bay,2026-05-11T06:14:00+00:00,South Africa,0.30268839196824304,0,1,el,WSAF,Africa
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,παγόβουνο Ανταρκτική,2026-04-23T05:16:00+00:00,,0.3017193410972954,2,1,el,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-04-11T04:34:00+00:00,,0.2990636957570182,2,2,el,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,νεροποντή,2026-04-13T05:27:00+00:00,,0.2914767504740139,3,1,el,,

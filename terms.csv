@@ -62,7 +62,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7e7f876eb',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρίτη,2026-04-16T05:17:00+00:00,Greece,0.3124700241567256,4,1,el,MED,Europe
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-04-16T05:17:00+00:00,Greece,0.3122971323644279,2,1,el,MED,Europe
 'ff620d191d',extremes,Storm,#b3b2b1,wmo,καταιγίδα κεντρική Μακεδονία,2026-04-22T05:13:00+00:00,Greece,0.307835561016276,4,1,el,MED,Europe
+'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα νορβηγία,2026-04-30T05:46:00+00:00,Norway,0.30296448550218646,0,1,el,NEU,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-04-18T04:56:00+00:00,,0.3027701500395653,2,1,el,,
+'46757c038c',extremes,Thunderstorm,#53785a,wmo,χαλάζι Νότια Αφρική,2026-04-30T05:46:00+00:00,South Africa,0.3026766432021194,0,1,el,WSAF,Africa
+'70773b5956',extremes,Earthquake,#870007,usgs,σεισμός αλάσκα,2026-04-26T05:25:00+00:00,Alaska,0.302651839176517,0,1,el,NWN,North-America
+'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,wildfire ρωσία,2026-04-27T05:40:00+00:00,Russia,0.3026500418265768,0,1,el,ESB,Europe
+'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,νεροποντή Σαουδική Αραβία,2026-04-29T05:40:00+00:00,Saudi Arabia,0.3026270079098077,0,1,el,ARP,Asia
+'037bb37761',extremes,Flood,#030ba1,wmo,πλημμύρα Ηνωμένες Πολιτείες,2026-04-27T05:40:00+00:00,United States,0.3026151613919805,0,1,el,CNA,North-America
+'3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood καναδάς,2026-04-25T05:00:00+00:00,Canada,0.3025556646372076,0,1,el,NEN,North-America
+'cda3b95773',extremes,Storm,#b3b2b1,wmo,καταιγίδα Σαουδική Αραβία,2026-04-27T05:40:00+00:00,Saudi Arabia,0.3025548291727147,0,1,el,ARP,Asia
+'aacf82e274',extremes,Drought,#edc291,edo,ξηρά νησιά Φερόες,2026-05-01T05:54:00+00:00,Faroe Islands,0.30254714413044786,0,1,el,NEU,Europe
+'279d701798',extremes,Flood,#030ba1,wmo,πλημμύρα κολπίσκο νότιας Αυστραλίας,2026-04-29T05:40:00+00:00,Australia,0.30254021361242395,0,1,el,CAU,Oceania
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,παγόβουνο Ανταρκτική,2026-04-23T05:16:00+00:00,,0.3017193410972954,2,1,el,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-04-11T04:34:00+00:00,,0.2990636957570182,2,2,el,,
 'c948617fef',extremes,Heat Wave,#c40202,random,ακραία έκθεση στη ζέστη,2026-05-02T05:23:00+00:00,,0.2967901627557531,1,1,el,,
